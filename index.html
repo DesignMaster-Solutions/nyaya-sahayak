@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nyaya Sahayak · Free legal aid check (Section 12, LSA Act 1987)</title>
+  <meta name="description" content="Check in 2 minutes if you are entitled to free legal aid under Section 12 of the Legal Services Authorities Act, 1987, and draft your application to the DLSA. English and Hindi.">
+  <meta name="theme-color" content="#1d3557">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231d3557'/%3E%3Cpath d='M16 6v20M8 11h16M8 11l-3 8h6zM24 11l-3 8h6z' stroke='%23f1c453' stroke-width='2' fill='none'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-row">
+      <strong data-t="title">Nyaya Sahayak</strong>
+      <div class="lang" role="group" aria-label="Language">
+        <button type="button" data-lang="en" lang="en">English</button>
+        <button type="button" data-lang="hi" lang="hi">हिन्दी</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap" id="main" aria-live="polite">
+    <section id="intro">
+      <h1 data-t="tagline"></h1>
+      <p data-t="intro"></p>
+      <button type="button" class="primary" id="start" data-t="start"></button>
+    </section>
+
+    <section id="quiz" hidden>
+      <p class="step" id="step"></p>
+      <div class="bar"><span id="bar"></span></div>
+      <h2 id="question" tabindex="-1"></h2>
+      <p class="hint" id="hint" data-t="income_hint" hidden></p>
+      <div class="answers" id="answers"></div>
+      <button type="button" class="link" id="back" data-t="back"></button>
+    </section>
+
+    <section id="result" hidden>
+      <h2 id="verdict" tabindex="-1"></h2>
+      <p id="why" data-t="result_why"></p>
+      <ul id="clauses" class="clauses"></ul>
+      <ul id="notes" class="notes"></ul>
+      <div class="actions">
+        <button type="button" class="primary" id="to-form" data-t="draft_btn"></button>
+        <button type="button" class="link" data-restart data-t="restart"></button>
+      </div>
+    </section>
+
+    <section id="form-step" hidden>
+      <h2 data-t="form_title" tabindex="-1"></h2>
+      <form id="form">
+        <label><span data-t="f_name"></span><input name="name" required autocomplete="name"></label>
+        <label><span data-t="f_guardian"></span><input name="guardian"></label>
+        <label><span data-t="f_address"></span><textarea name="address" rows="2" required autocomplete="street-address"></textarea></label>
+        <div class="row">
+          <label><span data-t="f_district"></span><input name="district" required></label>
+          <label><span data-t="f_state"></span><input name="state" required autocomplete="address-level1"></label>
+        </div>
+        <label><span data-t="f_phone"></span><input name="phone" type="tel" inputmode="tel" autocomplete="tel"></label>
+        <label><span data-t="f_matter"></span><textarea name="matter" rows="3" required></textarea></label>
+        <button class="primary" data-t="make_draft"></button>
+      </form>
+    </section>
+
+    <section id="draft-step" hidden>
+      <h2 data-t="draft_title" tabindex="-1"></h2>
+      <p class="hint" data-t="draft_hint"></p>
+      <textarea id="draft" rows="22" aria-labelledby="draft-step"></textarea>
+      <div class="actions">
+        <button type="button" class="primary" id="print" data-t="print"></button>
+        <button type="button" id="copy" data-t="copy"></button>
+        <button type="button" class="link" data-restart data-t="restart"></button>
+      </div>
+      <h3 data-t="docs_title"></h3>
+      <ul id="docs" class="docs"></ul>
+    </section>
+
+    <pre id="printable" aria-hidden="true"></pre>
+  </main>
+
+  <footer class="wrap foot">
+    <p data-t="help"></p>
+    <p data-t="footer"></p>
+  </footer>
+</body>
+</html>
