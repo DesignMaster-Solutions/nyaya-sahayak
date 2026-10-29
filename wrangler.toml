@@ -1,0 +1,7 @@
+name = "nyaya-sahayak"
+compatibility_date = "2026-10-01"
+
+# Static site only: no Worker script, Cloudflare serves the files directly.
+[assets]
+directory = "."
+not_found_handling = "single-page-application"
