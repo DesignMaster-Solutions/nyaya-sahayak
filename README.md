@@ -28,6 +28,8 @@ answered), `eligible` (the result named at least one clause), `draft` (a DLSA le
 sent: no answers, no names, no addresses, and the Worker never stores an IP. The counts live in
 one Durable Object (`worker.js`, class `Counter`), so concurrent increments are not lost, and are
 kept as totals, per language and per day (UTC).
+The first check, eligible result, draft and share counted on 31 October 2026 are our own
+smoke test right after the deploy; everything after that is public use.
 
 ## Setup
 
