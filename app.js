@@ -10,6 +10,8 @@ let index = 0;
 let view = 'intro';
 let details = null; // form facts, kept so a language switch rebuilds the draft
 const t = (key) => STRINGS[lang][key];
+// Anonymous usage count for the impact data: event name and language only, never answers or details.
+const count = (event) => navigator.sendBeacon?.('/api/event', JSON.stringify({ event, lang }));
 
 function show(id) {
   view = id;
@@ -22,6 +24,7 @@ function render() {
   document.documentElement.lang = lang;
   document.title = `${t('title')} · Section 12`;
   for (const el of document.querySelectorAll('[data-t]')) el.textContent = t(el.dataset.t);
+  $('share-tool').href = `https://wa.me/?text=${encodeURIComponent(fill(t('share_text'), { url: location.origin }))}`;
   for (const b of document.querySelectorAll('[data-lang]')) b.setAttribute('aria-pressed', b.dataset.lang === lang);
   if (view === 'quiz') renderQuestion();
   if (view === 'result') renderResult();
@@ -47,7 +50,7 @@ function renderQuestion() {
 function answer(id, value) {
   answers[id] = value;
   if (++index < QUESTIONS.length) { renderQuestion(); $('question').focus(); }
-  else show('result');
+  else { show('result'); count('check'); if (eligibility(answers).eligible) count('eligible'); }
 }
 
 const li = (text) => Object.assign(document.createElement('li'), { textContent: text });
@@ -91,6 +94,13 @@ $('form').onsubmit = (e) => {
   e.preventDefault();
   details = Object.fromEntries(new FormData(e.target));
   show('draft-step');
+  count('draft');
+};
+$('share').onclick = async () => {
+  count('share');
+  const text = $('draft').value;
+  if (navigator.share) { try { await navigator.share({ text }); } catch { /* user closed the sheet */ } }
+  else window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
 };
 $('print').onclick = () => { $('printable').textContent = $('draft').value; window.print(); };
 $('copy').onclick = async () => {

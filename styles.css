@@ -63,3 +63,6 @@ input, textarea { font: inherit; width: 100%; padding: .6rem .7rem; border: 1.5p
   main, #printable { display: block !important; }
   #printable { white-space: pre-wrap; font: 12pt/1.6 serif; margin: 0; }
 }
+table { border-collapse: collapse; width: 100%; margin: .5rem 0 1.25rem; background: #fff; }
+th, td { text-align: left; padding: .5rem .6rem; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+thead th { color: var(--muted); font-weight: 500; font-size: .85rem; }

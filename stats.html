@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nyaya Sahayak · Usage numbers</title>
+  <meta name="description" content="Live, anonymous usage counts of Nyaya Sahayak: eligibility checks, eligible results, DLSA applications drafted and shares, by language and by day.">
+  <meta name="theme-color" content="#1d3557">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top"><div class="wrap top-row"><strong><a href="/" style="color:#fff;text-decoration:none">Nyaya Sahayak</a></strong><span>Usage numbers</span></div></header>
+  <main class="wrap">
+    <h1>Live usage, counted without personal data</h1>
+    <p class="hint">Every number below is a real event from the public app. We count only the event name and the language. Answers, names, addresses and IP addresses are never stored. Raw data: <a href="/api/stats">/api/stats</a> (JSON).</p>
+    <h2>Totals since <span id="since"></span></h2>
+    <table id="totals"><tbody></tbody></table>
+    <h2>By language</h2>
+    <table id="langs"><thead><tr><th></th><th>Checks</th><th>Eligible</th><th>Applications</th><th>Shares</th></tr></thead><tbody></tbody></table>
+    <h2>By day (UTC)</h2>
+    <table id="days"><thead><tr><th>Day</th><th>Checks</th><th>Eligible</th><th>Applications</th><th>Shares</th></tr></thead><tbody></tbody></table>
+    <p class="hint">Checks = people who answered all nine questions. Eligible = checks whose result named at least one clause of Section 12. Applications = DLSA letters drafted. Shares = letters sent on or the tool shared on WhatsApp.</p>
+  </main>
+  <footer class="wrap foot"><p>Free and open-source: <a href="https://github.com/DesignMaster-Solutions/nyaya-sahayak">github.com/DesignMaster-Solutions/nyaya-sahayak</a></p></footer>
+  <script type="module">
+    const EVENTS = ['check', 'eligible', 'draft', 'share'];
+    const LABEL = { check: 'Checks completed', eligible: 'Eligible results', draft: 'Applications drafted', share: 'Shares on WhatsApp' };
+    const { since, counts } = await (await fetch('/api/stats', { cache: 'no-store' })).json();
+    document.getElementById('since').textContent = since;
+    const row = (cells, head) => `<tr>${cells.map((c, i) => (i === 0 && head ? `<th>${c}</th>` : `<td>${c}</td>`)).join('')}</tr>`;
+    document.querySelector('#totals tbody').innerHTML = EVENTS.map((e) => row([LABEL[e], counts[`total:${e}`] || 0], true)).join('');
+    const group = (prefix) => [...new Set(Object.keys(counts).filter((k) => k.startsWith(prefix)).map((k) => k.split(':')[1]))].sort();
+    const NAME = { en: 'English', hi: 'Hindi' };
+    document.querySelector('#langs tbody').innerHTML = group('lang:').map((l) => row([NAME[l] || l, ...EVENTS.map((e) => counts[`lang:${l}:${e}`] || 0)], true)).join('');
+    document.querySelector('#days tbody').innerHTML = group('day:').reverse().map((d) => row([d, ...EVENTS.map((e) => counts[`day:${d}:${e}`] || 0)], true)).join('');
+  </script>
+</body>
+</html>

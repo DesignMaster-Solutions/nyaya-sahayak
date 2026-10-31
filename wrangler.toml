@@ -1,7 +1,17 @@
 name = "nyaya-sahayak"
+main = "worker.js"
 compatibility_date = "2026-10-01"
 
-# Static site only: no Worker script, Cloudflare serves the files directly.
+# Static files are served directly; only /api/* reaches the Worker (anonymous usage counter).
 [assets]
 directory = "."
+binding = "ASSETS"
 not_found_handling = "single-page-application"
+run_worker_first = ["/api/*"]
+
+[durable_objects]
+bindings = [{ name = "COUNTER", class_name = "Counter" }]
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Counter"]
