@@ -91,3 +91,7 @@ and should be reviewed by a native speaker with legal-aid experience before publ
   has a DLSA.
 
 This tool gives information, not legal advice.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Anyone, including Code for India and any DLSA or NGO, may run, copy and adapt it.

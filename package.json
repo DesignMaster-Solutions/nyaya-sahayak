@@ -1,6 +1,7 @@
 {
   "name": "nyaya-sahayak",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "test": "node --test"
