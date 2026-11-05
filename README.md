@@ -90,6 +90,15 @@ and should be reviewed by a native speaker with legal-aid experience before publ
 - State Legal Services Authorities publish their State's notified income limit; every district
   has a DLSA.
 
+## Figures quoted in the submission
+
+- 4,34,302 of 5,73,220 prisoners (75.8%) were undertrials on 31 December 2022: NCRB, Prison
+  Statistics India 2022, Executive Summary,
+  https://www.ncrb.mha.gov.in/uploads/nationalcrimerecordsbureau/custom/psiyearwise2022/170161282705ExecutiveSummary2022.pdf
+- 15,50,164 people received legal aid under the LSA Act in 2023-24, 11,591 (0.74%) of them persons
+  with disabilities: Ministry of Law and Justice, written reply in the Rajya Sabha, PIB release
+  2159189 of 21 August 2025, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2159189
+
 This tool gives information, not legal advice.
 
 ## License
