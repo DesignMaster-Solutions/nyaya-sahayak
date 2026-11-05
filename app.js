@@ -11,7 +11,9 @@ let view = 'intro';
 let details = null; // form facts, kept so a language switch rebuilds the draft
 const t = (key) => STRINGS[lang][key];
 // Anonymous usage count for the impact data: event name and language only, never answers or details.
-const count = (event) => navigator.sendBeacon?.('/api/event', JSON.stringify({ event, lang }));
+// ?nostats keeps our own tests and demo recordings out of the public impact numbers.
+const NOSTATS = new URLSearchParams(location.search).has('nostats');
+const count = (event) => NOSTATS || navigator.sendBeacon?.('/api/event', JSON.stringify({ event, lang }));
 
 function show(id) {
   view = id;
