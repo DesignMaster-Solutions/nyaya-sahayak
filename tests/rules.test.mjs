@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { eligibility, documents, QUESTIONS, CLAUSES } from '../rules.js';
+import { eligibility, documents, QUESTIONS, CLAUSES, INCOME_LIMITS, SUPREME_COURT_LIMIT, incomeLimit } from '../rules.js';
 import { STRINGS } from '../i18n.js';
 
 const allNo = Object.fromEntries(QUESTIONS.map((q) => [q.id, 'no']));
@@ -69,7 +69,21 @@ test('documents: base list plus certificates for the clauses relied on', () => {
   assert.ok(!documents(['a']).includes('doc_income_affidavit'));
 });
 
-test('no income figure is hardcoded in rules or strings', () => {
+// NALSA FAQ, https://nalsa.gov.in/legal-aid/ (table under Section 12(h)), read 05/11/2026.
+test('(h) income ceiling per State comes from the NALSA table', () => {
+  assert.equal(INCOME_LIMITS.length, 37);
+  assert.equal(new Set(INCOME_LIMITS.map(([s]) => s)).size, 37);
+  for (const [, n] of INCOME_LIMITS) assert.ok(Number.isInteger(n) && n > 0);
+  assert.equal(incomeLimit('Delhi'), 300000);
+  assert.equal(incomeLimit('Gujarat'), 100000);
+  assert.equal(incomeLimit('Madhya Pradesh'), 200000);
+  assert.equal(incomeLimit('Mizoram'), 25000);
+  assert.equal(incomeLimit('Dadra & Nagar Haveli'), 15000);
+  assert.equal(incomeLimit('Atlantis'), null);
+  assert.equal(SUPREME_COURT_LIMIT, 500000);
+});
+
+test('income figures live only in the NALSA table, never typed into the texts', () => {
   const text = JSON.stringify(STRINGS);
   assert.doesNotMatch(text, /(₹|Rs\.?\s?)\s?\d/);
   assert.doesNotMatch(text, /\d[\d,]*\s?(lakh|लाख)/i);

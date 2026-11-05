@@ -1,4 +1,4 @@
-import { eligibility, documents, QUESTIONS } from './rules.js';
+import { eligibility, documents, QUESTIONS, INCOME_LIMITS, SUPREME_COURT_LIMIT, incomeLimit } from './rules.js';
 import { STRINGS } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
@@ -9,6 +9,7 @@ let answers = {};
 let index = 0;
 let view = 'intro';
 let details = null; // form facts, kept so a language switch rebuilds the draft
+let state = ''; // only to show the NALSA income limit; never counted or sent
 const t = (key) => STRINGS[lang][key];
 // Anonymous usage count for the impact data: event name and language only, never answers or details.
 // ?nostats keeps our own tests and demo recordings out of the public impact numbers.
@@ -38,7 +39,10 @@ function renderQuestion() {
   $('step').textContent = fill(t('step'), { n: index + 1, total: QUESTIONS.length });
   $('bar').style.width = `${(index / QUESTIONS.length) * 100}%`;
   $('question').textContent = t(`q_${q.id}`);
-  $('hint').hidden = q.id !== 'income';
+  const income = q.id === 'income';
+  $('hint').hidden = !income;
+  $('state-wrap').hidden = !income;
+  if (income) renderLimit();
   $('answers').replaceChildren(...(q.options || ['yes', 'no']).map((opt) => {
     const b = document.createElement('button');
     b.type = 'button';
@@ -47,6 +51,17 @@ function renderQuestion() {
     b.onclick = () => answer(q.id, opt);
     return b;
   }));
+}
+
+function renderLimit() {
+  const sel = $('state');
+  if (!sel.options.length) sel.append(new Option('', ''), ...INCOME_LIMITS.map(([s]) => new Option(s, s)));
+  sel.options[0].textContent = t('income_state_pick');
+  sel.value = state;
+  const limit = incomeLimit(state);
+  const rs = (n) => n.toLocaleString('en-IN');
+  $('limit').hidden = limit === null;
+  if (limit !== null) $('limit').textContent = fill(t('income_limit'), { state, limit: rs(limit), sc: rs(SUPREME_COURT_LIMIT) });
 }
 
 function answer(id, value) {
@@ -88,6 +103,7 @@ function buildDraft(f) {
 $('start').onclick = () => { answers = {}; index = 0; show('quiz'); };
 $('back').onclick = () => { if (index > 0) { index--; renderQuestion(); } else show('intro'); };
 $('to-form').onclick = () => show('form-step');
+$('state').onchange = (e) => { state = e.target.value; renderLimit(); };
 for (const b of document.querySelectorAll('[data-restart]')) b.onclick = () => show('intro');
 for (const b of document.querySelectorAll('[data-lang]')) {
   b.onclick = () => { lang = b.dataset.lang; localStorage.setItem('ns-lang', lang); render(); };

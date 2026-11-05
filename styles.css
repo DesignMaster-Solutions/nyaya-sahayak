@@ -66,3 +66,5 @@ input, textarea { font: inherit; width: 100%; padding: .6rem .7rem; border: 1.5p
 table { border-collapse: collapse; width: 100%; margin: .5rem 0 1.25rem; background: #fff; }
 th, td { text-align: left; padding: .5rem .6rem; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
 thead th { color: var(--muted); font-weight: 500; font-size: .85rem; }
+.limit { margin: .4rem 0 0; padding: .6rem .8rem; border-left: 3px solid var(--saffron); background: #fff; font-size: .95rem; }
+#state-wrap select { font: inherit; padding: .5rem; max-width: 100%; }

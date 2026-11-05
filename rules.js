@@ -16,6 +16,55 @@ export const QUESTIONS = [
   { id: 'income', clause: 'h', options: ['yes', 'no', 'unsure'] },
 ];
 
+// Section 12(h) income ceiling per year, as listed by NALSA (FAQ table, read 05/11/2026).
+// It is a floor: a State may have notified a higher amount, so the app still says to confirm with the DLSA.
+export const INCOME_SOURCE = 'https://nalsa.gov.in/legal-aid/';
+export const SUPREME_COURT_LIMIT = 500000;
+export const INCOME_LIMITS = [
+  ['Andhra Pradesh', 300000],
+  ['Arunachal Pradesh', 100000],
+  ['Assam', 300000],
+  ['Bihar', 150000],
+  ['Chhattisgarh', 150000],
+  ['Goa', 300000],
+  ['Gujarat', 100000],
+  ['Haryana', 300000],
+  ['Himachal Pradesh', 300000],
+  ['Jammu & Kashmir', 300000],
+  ['Jharkhand', 300000],
+  ['Karnataka', 300000],
+  ['Kerala', 300000],
+  ['Madhya Pradesh', 200000],
+  ['Maharashtra', 300000],
+  ['Manipur', 300000],
+  ['Meghalaya', 300000],
+  ['Mizoram', 25000],
+  ['Nagaland', 100000],
+  ['Odisha', 300000],
+  ['Punjab', 300000],
+  ['Rajasthan', 300000],
+  ['Sikkim', 300000],
+  ['Telangana', 300000],
+  ['Tamil Nadu', 300000],
+  ['Tripura', 150000],
+  ['Uttar Pradesh', 300000],
+  ['Uttarakhand', 300000],
+  ['West Bengal', 100000],
+  ['Andaman & Nicobar Islands', 300000],
+  ['Chandigarh', 300000],
+  ['Dadra & Nagar Haveli', 15000],
+  ['Daman & Diu', 100000],
+  ['Delhi', 300000],
+  ['Ladakh', 100000],
+  ['Lakshadweep', 300000],
+  ['Puducherry', 100000],
+];
+
+/** @returns {number|null} rupees per year, or null for a name not in the NALSA table */
+export function incomeLimit(state) {
+  return INCOME_LIMITS.find(([s]) => s === state)?.[1] ?? null;
+}
+
 /**
  * @param {Record<string, 'yes'|'no'|'unsure'>} answers
  * @returns {{eligible: boolean, clauses: string[], notes: string[]}}
