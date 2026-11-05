@@ -65,11 +65,15 @@ the "unsure about income" case, and checks that English and Hindi have the same 
 per day; unknown events, unknown languages and broken JSON are rejected and nothing is stored;
 `/api/*` reaches the counter and every other path is served as a static file.
 
-**Income limits are never hardcoded.** They are notified by each State Government (and by the
-Central Government for the Supreme Court) and change over time. The app asks the person whether
-their income is below their State's notified limit; a "yes" yields clause (h) as *likely*, with a
-note to confirm the limit with the State Legal Services Authority or NALSA. A test fails if an
-amount in rupees or lakhs ever appears in the strings.
+**Income limits come from one official table.** On the income question the person picks their
+State or Union Territory and the app shows the yearly ceiling NALSA lists for it (37 States/UTs,
+from the table in the NALSA legal-aid FAQ, https://nalsa.gov.in/legal-aid/ , read 05/11/2026),
+the Rs 5 lakh limit for a Supreme Court case, and that an affidavit of income is generally
+accepted as proof (Section 13(2)). The person still answers yes or no; the State is not stored or
+counted. NALSA's table is a floor (a State may notify a higher amount), so a "yes" yields clause (h)
+as *likely* and the note to confirm with the DLSA stays. The figures live only in `INCOME_LIMITS`
+in `rules.js`; a test checks the table against NALSA's values and fails if an amount in rupees or
+lakhs is ever typed into the strings.
 
 ## How it was built
 
