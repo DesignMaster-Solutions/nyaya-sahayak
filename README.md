@@ -6,6 +6,7 @@ drafts their application to the Secretary of the **District Legal Services Autho
 in English and Hindi.
 
 Built for *Code for a Billion*, track **Timely Justice**.
+Demo video (85 s): <https://youtu.be/Mnqa7ExGQFI> (script and sources of every frame in [video/](video/)).
 
 - Static web app: `index.html`, `app.js`, `rules.js`, `i18n.js`, `styles.css`. No framework, no
   paid API, no cookies, no account. About 30 KB in total, so it loads on a cheap phone on a weak
