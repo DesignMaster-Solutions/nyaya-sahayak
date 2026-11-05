@@ -1,0 +1,132 @@
+{
+ "brand": "Nyaya Sahayak · open source (MIT) · Design Master Solutions LLC",
+ "voice": "Samantha",
+ "rate": 200,
+ "bg": "#1d3557",
+ "accent": "#f1c453",
+ "out": "demo.mp4",
+ "scenes": [
+  {
+   "title": "3 in 4 prisoners are undertrials",
+   "lines": [
+    "NCRB, Prison Statistics India 2022:",
+    "4,34,302 of 5,73,220 prisoners (75.8%) were undertrials on 31 December 2022",
+    "",
+    "Section 12(g), Legal Services Authorities Act, 1987:",
+    "a person in custody is entitled to a free lawyer.",
+    "The right exists. The person has to ask for it."
+   ],
+   "say": "At the end of 2022, three in four of India's prisoners were undertrials. Under Section 12 of the Legal Services Authorities Act, every person in custody is entitled to a free lawyer. But they have to ask."
+  },
+  {
+   "title": "Am I entitled? What do I write?",
+   "lines": [
+    "Legal aid in 2023-24, all",
+    "Section 12 groups together:",
+    "15,50,164 people",
+    "(Ministry of Law and Justice,",
+    "Rajya Sabha reply, PIB 2159189)",
+    "",
+    "Nyaya Sahayak answers both,",
+    "in English and Hindi,",
+    "in about two minutes."
+   ],
+   "shots": [
+    "shots/big-intro.png"
+   ],
+   "say": "In 2023-24, legal aid reached 15 lakh 50 thousand people, across every group the Act covers. Nyaya Sahayak answers two questions: am I entitled, and what do I write?"
+  },
+  {
+   "title": "Nine yes/no questions",
+   "lines": [
+    "One question per screen",
+    "Every clause of Section 12,",
+    "(a) to (h)",
+    "",
+    "Income: never a rupee figure.",
+    "Each State notifies its own",
+    "limit, and it changes."
+   ],
+   "shots": [
+    "shots/big-questions.png"
+   ],
+   "say": "Nine yes or no questions cover every clause of Section 12. Here, a person in custody. Income limits are never hardcoded: each State notifies its own."
+  },
+  {
+   "title": "The result names the clause",
+   "lines": [
+    "Section 12(g): in custody",
+    "",
+    "Income unsure? Ask the DLSA",
+    "or call the NALSA helpline 15100"
+   ],
+   "shots": [
+    "shots/big-result.png"
+   ],
+   "say": "The result names the clause: Section 12, clause g, in custody. Unsure about income? Ask the DLSA, or call the NALSA helpline, one five one, zero zero."
+  },
+  {
+   "title": "The application, drafted",
+   "lines": [
+    "To the Secretary, District",
+    "Legal Services Authority",
+    "Facts, the clause relied on,",
+    "a request for a panel lawyer",
+    "",
+    "Details never leave the phone",
+    "(sample details shown)"
+   ],
+   "shots": [
+    "shots/big-letter.png"
+   ],
+   "say": "Then it drafts the letter to the District Legal Services Authority, with the facts, the clause, and a request for a panel lawyer. Details never leave the phone."
+  },
+  {
+   "title": "Documents, Hindi, WhatsApp",
+   "lines": [
+    "Checklist of documents to carry",
+    "",
+    "One tap: the whole letter",
+    "rebuilt in Hindi",
+    "",
+    "Print, PDF, or send on",
+    "WhatsApp to a relative",
+    "or a paralegal"
+   ],
+   "shots": [
+    "shots/big-hindi.png"
+   ],
+   "say": "It lists the documents to carry. One tap rebuilds the whole letter in Hindi, ready to print, or to send on WhatsApp to a relative or a paralegal."
+  },
+  {
+   "title": "Every clause is tested",
+   "lines": [
+    "eligibility(answers) is a pure function. 18 tests: every clause, the not-eligible and",
+    "don't-know paths, and a test that fails if a rupee amount ever appears in the text."
+   ],
+   "mono_cmd": "node --test tests/rules.test.mjs",
+   "mono_cwd": "..",
+   "mono_grep": [
+    "✔ Section",
+    "✖",
+    "ℹ pass",
+    "ℹ fail"
+   ],
+   "say": "The rules are a pure function with 18 tests: every clause, the not eligible and don't know paths, and a test that fails if a rupee amount ever appears in the text."
+  },
+  {
+   "title": "Nyaya Sahayak",
+   "lines": [
+    "nyaya-sahayak.designmaster.workers.dev",
+    "",
+    "Free, open source (MIT), no login, no cookies",
+    "About 30 KB, built for a cheap phone",
+    "Public, anonymous usage numbers at /stats",
+    "Information, not legal advice",
+    "",
+    "github.com/DesignMaster-Solutions/nyaya-sahayak"
+   ],
+   "say": "Nyaya Sahayak: free, open source, about 30 kilobytes, built for a cheap phone. Information, not legal advice."
+  }
+ ]
+}
