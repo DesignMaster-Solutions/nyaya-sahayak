@@ -1,0 +1,1098 @@
+{
+  "_about": "Real decisions where a person did not get the free legal aid they were entitled to (Section 12 of the Legal Services Authorities Act 1987, Art. 39A / 21 of the Constitution, s.304 CrPC) and that weighed in the decision. Every field comes from the decision text saved in sources/<doc>.txt; null means the decision does not say it. 'replay' is ours: the answers the person could give on the app's screens using only facts the decision states (poverty without an income figure is 'unsure', never 'yes'), what rules.js returns, and the Section 12 clause(s) matching the reason the court gave (court_clauses, empty when the court rested on the right of every unrepresented accused). 'excluded' are decisions read in full and left out, with why. Collected from indiankanoon.org on 2026-11-05.",
+  "cases": [
+    {
+      "id": "sc-1979-hussainara",
+      "url": "https://indiankanoon.org/doc/1373215/",
+      "source": "sources/1373215.txt",
+      "court": "Supreme Court of India",
+      "case_number": "Writ Petition No. 57 of 1979",
+      "decision_date": "1979-03-09",
+      "state": "Bihar",
+      "person": "Hussainara Khatoon and others (undertrial prisoners in Bihar jails, e.g. Budhu Mahli, Ranchi Central Jail)",
+      "persons": null,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": "yes"
+      },
+      "facts_where": {
+        "custody": "'Budhu Mahli ... has been in jail since 21st November, 1972'",
+        "poor": "'on account of their poverty, they are unable to engage a lawyer who would apprise them of their right to apply for bail'"
+      },
+      "what_was_missing": "no lawyer for bail",
+      "stage": "pre-trial",
+      "time_lost": "Budhu Mahli in jail as undertrial since 21 Nov 1972 (over six years); others since 1974; some longer than maximum sentence",
+      "outcome": "undertrials held beyond maximum sentence released; State directed to provide lawyer at own cost at next remand for bail; legal aid read into Art. 21",
+      "court_relied_on": [
+        "Article 21",
+        "Article 39A",
+        "Article 14",
+        "Section 167(2) CrPC",
+        "Maneka Gandhi v. Union of India",
+        "M.H. Hoskot v. State of Maharashtra"
+      ],
+      "quote": "It is not uncommon to find that under-trial prisoners who are produced before the Magistrates are unaware of their right to obtain release on bail and on account of their poverty, they are unable to engage a lawyer who would apprise them of their right to apply for bail",
+      "quote_where": null,
+      "limits": "Systemic order over thousands of undertrials; no number of people without a lawyer is stated, so persons_count null. Closer to a PIL but names individual prisoners and orders relief for them.",
+      "replay": {
+        "answers": {
+          "custody": "yes",
+          "income": "unsure"
+        },
+        "court_clauses": [
+          "g",
+          "h"
+        ],
+        "court_basis": "undertrials held in jail who, being poor, had no lawyer to apply for bail",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": [
+            "note_income_unsure"
+          ]
+        },
+        "divergence": null
+      }
+    },
+    {
+      "id": "sc-1980-khatri-bhagalpur",
+      "url": "https://indiankanoon.org/doc/1122133/",
+      "source": "sources/1122133.txt",
+      "court": "Supreme Court of India",
+      "case_number": "Writ Petition No. 5670 of 1980",
+      "decision_date": "1980-12-19",
+      "state": "Bihar",
+      "person": "Khatri and others (the Bhagalpur blinded prisoners, undertrials; e.g. Umesh Yadav)",
+      "persons": null,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": "yes",
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": "yes"
+      },
+      "facts_where": {
+        "disability": "'the blinded prisoners ... their vision is so totally impaired that it is not possible to restore it'",
+        "custody": "'the rest of them continued to languish in jail'; Bhagalpur Central Jail",
+        "poor": "Umesh Yadav petition: 'since he had no money to prosecute this police officer, he should be provided a lawyer at Government expense'"
+      },
+      "what_was_missing": "not told of the right; no lawyer at first production and remand",
+      "stage": "pre-trial",
+      "time_lost": "most remained in jail; a few released on bail 'after being in jail for quite some time'",
+      "outcome": "interim order: magistrates directed to inform every indigent accused of right to free legal aid; State told aid starts at first production; petition adjourned",
+      "court_relied_on": [
+        "Article 21",
+        "Article 22",
+        "Article 141",
+        "Hussainara Khatoon v. State of Bihar"
+      ],
+      "quote": "The records of the judicial magistrates show that no legal representation was provided to the blinded prisoners, because none of them asked for it nor did the judicial magistrates enquire from the blinded prisoners produced before them either initially or at the time of remand whether they wanted any legal representation at State cost.",
+      "quote_where": null,
+      "limits": "Group case; text says 'most of the blinded prisoners' were unrepresented without giving a number. Separately, Umesh Yadav and 'Ten other blinded prisoners' (11) asked for a State lawyer to prosecute the police and the Sessions Judge said there was no provision; persons_count left null because the main group size is not stated. Interim order, individual relief deferred to a later hearing.",
+      "replay": {
+        "answers": {
+          "disability": "yes",
+          "custody": "yes",
+          "income": "unsure"
+        },
+        "court_clauses": [
+          "g",
+          "h"
+        ],
+        "court_basis": "indigent accused produced before the magistrate from jail, never asked whether they wanted a lawyer at State cost",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "d",
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_disability",
+            "doc_custody"
+          ],
+          "notes": [
+            "note_income_unsure"
+          ]
+        },
+        "divergence": null
+      }
+    },
+    {
+      "id": "sc-1986-suk-das",
+      "url": "https://indiankanoon.org/doc/765136/",
+      "source": "sources/765136.txt",
+      "court": "Supreme Court of India",
+      "case_number": "Criminal Appeal No.725 of 1985",
+      "decision_date": "1986-03-10",
+      "state": "Arunachal Pradesh",
+      "person": "Suk Das (appellant, accused convicted under s.506/34 IPC)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": "no",
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": null,
+        "income_below_limit": null,
+        "poor_or_indigent": "yes"
+      },
+      "facts_where": {
+        "poor": "he was admittedly unable to afford legal representation on account of his poverty"
+      },
+      "what_was_missing": "not told of the right; no lawyer at trial",
+      "stage": "trial",
+      "time_lost": "was in jail nearly 8 months (sentence reduced by High Court to period undergone)",
+      "outcome": "conviction and sentence set aside; dismissal from service quashed, reinstatement without back wages; no fresh trial",
+      "court_relied_on": [
+        "Article 21"
+      ],
+      "quote": "It is obvious that in the present case the learned Additional Deputy Commissioner did not inform the appellant that he was entitled to free legal assistance nor did he inquire from the appellant whether he wanted a lawyer to be provided to them at State cost.",
+      "quote_where": null,
+      "limits": "Title has two appellants ('Suk Das & Anr') but the judgment discusses only 'the appellant' (singular); counted 1. Relies on Hussainara Khatoon, M.H. Hoskot and Khatri (II). High Court had refused relief because no legal-aid application was made.",
+      "replay": {
+        "answers": {
+          "woman": "no",
+          "income": "unsure"
+        },
+        "court_clauses": [
+          "h"
+        ],
+        "court_basis": "unable to afford a lawyer on account of his poverty, never told of free legal aid",
+        "expect": {
+          "eligible": false,
+          "clauses": [],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers"
+          ],
+          "notes": [
+            "note_income_unsure"
+          ]
+        },
+        "divergence": "The decision gives poverty but no income figure, so the honest answer is \"unsure\": the app does not say eligible, it shows the State ceiling and sends him to the DLSA or 15100 (note_income_unsure). Custody during the trial is not stated (he was in jail about 8 months by the time of the High Court appeal)."
+      }
+    },
+    {
+      "id": "sc-2012-mohd-hussain",
+      "url": "https://indiankanoon.org/doc/147661398/",
+      "source": "sources/147661398.txt",
+      "court": "Supreme Court of India",
+      "case_number": "CRIMINAL APPEAL NO. 1091 OF 2006",
+      "decision_date": "2012-08-31",
+      "state": "Delhi",
+      "person": "Mohd. Hussain @ Julfikar Ali (appellant, accused sentenced to death; Pakistani national)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": "no",
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": null
+      },
+      "facts_where": {
+        "custody": "the appellant was arrested in 1998 and since then he is in judicial custody"
+      },
+      "what_was_missing": "lawyer too late, no meaningful defence at trial",
+      "stage": "trial",
+      "time_lost": "in judicial custody since 1998",
+      "outcome": "conviction and death sentence set aside; de novo trial ordered from prosecution evidence stage, within three months, with counsel",
+      "court_relied_on": [
+        "Article 21",
+        "Article 22(1)",
+        "Article 39A",
+        "Section 303 CrPC",
+        "Section 304 CrPC",
+        "Section 386 CrPC"
+      ],
+      "quote": "the appellant was denied the assistance of a counsel in substantial and meaningful manner in the course of trial although necessity of counsel was vital and imperative and that resulted in denial of due process of law.",
+      "quote_where": "para 16",
+      "limits": "Three-judge bench answering a reference after split two-judge bench (Dattu J. remand; Prasad J. no retrial, deportation); both had held trial vitiated for lack of counsel. Larger bench ordered retrial despite delay.",
+      "replay": {
+        "answers": {
+          "woman": "no",
+          "custody": "yes"
+        },
+        "court_clauses": [],
+        "court_basis": "the right of every accused to a counsel at State cost (Art. 21, 22(1), s.304 CrPC), whatever the category",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": []
+        },
+        "divergence": "The app says eligible under (g), custody. The Court did not tie the right to a Section 12 category: it rests on the right of every unrepresented accused to counsel (s.304 CrPC, Art. 21). The failure was a lawyer named too late, which the app cannot fix; it only gets the application in early."
+      }
+    },
+    {
+      "id": "sc-2012-rajoo",
+      "url": "https://indiankanoon.org/doc/191628518/",
+      "source": "sources/191628518.txt",
+      "court": "Supreme Court of India",
+      "case_number": "CRIMINAL APPEAL NO. 140 OF 2008",
+      "decision_date": "2012-08-09",
+      "state": "Madhya Pradesh",
+      "person": "Rajoo @ Ramakant (appellant, convict in gang-rape case)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": "no",
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": null,
+        "income_below_limit": null,
+        "poor_or_indigent": null
+      },
+      "facts_where": {},
+      "what_was_missing": "High Court never asked if he wanted legal aid on appeal",
+      "stage": "appeal",
+      "time_lost": null,
+      "outcome": "High Court judgment set aside; appeal remitted for fresh hearing after giving opportunity of legal representation",
+      "court_relied_on": [
+        "Article 39A",
+        "Article 21",
+        "Section 12 LSA Act",
+        "Section 13 LSA Act"
+      ],
+      "quote": "We are also of the view that the High Court was under an obligation to enquire from Rajoo whether he required legal assistance and if he did, it should have been provided to him at State expense.",
+      "quote_where": null,
+      "limits": "Custody and means of the appellant not stated. Establishes that legal aid applies at appellate stage too.",
+      "replay": {
+        "answers": {
+          "woman": "no"
+        },
+        "court_clauses": [
+          "g"
+        ],
+        "court_basis": "Section 12 makes no distinction between trial and appeal for an accused or a person in custody",
+        "expect": {
+          "eligible": false,
+          "clauses": [],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers"
+          ],
+          "notes": []
+        },
+        "divergence": "The decision does not state his custody or income, so from the stated facts alone the app says not eligible and points to the DLSA. The Court read Section 12 as covering him as an accused/person in custody on appeal; a convict serving 10 years would answer custody \"yes\", but the text does not say it."
+      }
+    },
+    {
+      "id": "sc-2019-anokhilal",
+      "url": "https://indiankanoon.org/doc/110783225/",
+      "source": "sources/110783225.txt",
+      "court": "Supreme Court of India",
+      "case_number": "CRIMINAL APPEAL NOs.62-63 OF 2014",
+      "decision_date": "2019-12-18",
+      "state": "Madhya Pradesh",
+      "person": "Anokhilal (appellant, accused sentenced to death)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": "no",
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": null
+      },
+      "facts_where": {
+        "custody": "Accused Anokhilal present from judicial custody."
+      },
+      "what_was_missing": "legal aid counsel named the day charges were framed; no time to prepare",
+      "stage": "trial",
+      "time_lost": "in detention since 04.02.2013",
+      "outcome": "conviction and death sentence set aside; de novo consideration ordered; norms for legal-aid counsel laid down",
+      "court_relied_on": [
+        "Article 39A",
+        "Article 21",
+        "Section 12 LSA Act",
+        "Section 304 CrPC"
+      ],
+      "quote": "In the process, the assistance that the appellant was entitled to in the form of legal aid, could not be real and meaningful.",
+      "quote_where": "para 15",
+      "limits": "Legal-aid counsel appointed the same day charges were framed; 13 witnesses examined in 7 days; trial over in under a month. Court expressly did not comment on merits.",
+      "replay": {
+        "answers": {
+          "woman": "no",
+          "custody": "yes"
+        },
+        "court_clauses": [],
+        "court_basis": "legal aid must be real and meaningful (Art. 21, 39A); the Court laid down minimum experience and time",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": []
+        },
+        "divergence": "The app says eligible under (g), custody. The Court did not rest on a category: he had a legal aid lawyer, but too late to prepare. The app cannot fix the quality of the lawyer."
+      }
+    },
+    {
+      "id": "sc-2024-ashok",
+      "url": "https://indiankanoon.org/doc/84781373/",
+      "source": "sources/84781373.txt",
+      "court": "Supreme Court of India",
+      "case_number": "CRIMINAL APPEAL NO. 771 OF 2024",
+      "decision_date": "2024-12-02",
+      "state": "Uttar Pradesh",
+      "person": "Ashok (appellant, accused sentenced to death, commuted to life by High Court)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": "no",
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": null
+      },
+      "facts_where": {
+        "custody": "the appellant had been incarcerated for about twelve years and nine months before he was released on bail"
+      },
+      "what_was_missing": "no lawyer at charge and examination-in-chief of the main witness",
+      "stage": "trial",
+      "time_lost": "incarcerated about twelve years and nine months",
+      "outcome": "acquitted (on s.313 CrPC and evidence grounds); directions on legal aid to all State Legal Services Authorities",
+      "court_relied_on": [
+        "Article 21",
+        "Article 39A",
+        "Section 303 CrPC",
+        "Section 304 CrPC",
+        "Section 341 BNSS"
+      ],
+      "quote": "We are surprised to note that the examination-in-chief of PW-1 was allowed to be recorded without giving legal aid counsel to the appellant, who was not represented by an advocate.",
+      "quote_where": "para 22",
+      "limits": "Acquittal rests on failure to put incriminating material under s.313 CrPC and weak evidence; legal-aid failure (no lawyer at charge/PW-1 chief, absent legal aid advocate, poor cross-examination) produced the general directions in para 23 rather than being the sole ground. Victim was an SC child; appellant's own caste not stated.",
+      "replay": {
+        "answers": {
+          "woman": "no",
+          "custody": "yes"
+        },
+        "court_clauses": [],
+        "court_basis": "the duty of the court to give legal aid counsel to an unrepresented accused (Art. 21, 39A)",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": []
+        },
+        "divergence": "The app says eligible under (g), custody. The Court did not tie the right to a category. Acquittal rested mainly on s.313 CrPC and weak evidence; the legal aid failure led to directions to all State Legal Services Authorities."
+      }
+    },
+    {
+      "id": "sc-2025-sovaran-singh",
+      "url": "https://indiankanoon.org/doc/41463034/",
+      "source": "sources/41463034.txt",
+      "court": "Supreme Court of India",
+      "case_number": "CRIMINAL APPEAL NOS.259-260 OF 2019",
+      "decision_date": "2025-02-04",
+      "state": "Uttar Pradesh",
+      "person": "Sovaran Singh Prajapati (appellant, convict sentenced to death)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": "yes"
+      },
+      "facts_where": {
+        "custody": "order 01.09.2015: 'Accused Sobran Singh present from jail in judiciary custody'",
+        "poor": "para 12(g): 'The accused being a person of considerably less means, did not have access to an independent counsel'"
+      },
+      "what_was_missing": "witnesses examined without counsel; legal aid counsel late and changed repeatedly",
+      "stage": "trial",
+      "time_lost": "trial over 2.3 years (2014-2017), death sentence until 2025",
+      "outcome": "conviction and death sentence set aside; remanded for fresh trial from framing of charge",
+      "court_relied_on": [
+        "Article 21",
+        "Legal Services Authorities Act 1987 (quoted precedent)",
+        "Ashok v. State of U.P.",
+        "Anokhilal v. State of M.P."
+      ],
+      "quote": "(d) The Legal Aid Counsel provided to the appellant was not only appointed at a belated stage but also changed more than once during the course of trial.",
+      "quote_where": "para 12",
+      "limits": "Also other lapses (Section 313 statement, delayed charge, Section 311 rejection) contributed to remand.",
+      "replay": {
+        "answers": {
+          "custody": "yes",
+          "income": "unsure"
+        },
+        "court_clauses": [
+          "h"
+        ],
+        "court_basis": "a person of considerably less means who had no access to an independent counsel",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": [
+            "note_income_unsure"
+          ]
+        },
+        "divergence": "The app says eligible under (g), custody; the Court pointed to his lack of means (h), which the app leaves to the DLSA as \"unsure\" without an income figure. Same result, different clause."
+      }
+    },
+    {
+      "id": "sc-2025-tarun-sharma",
+      "url": "https://indiankanoon.org/doc/105782916/",
+      "source": "sources/105782916.txt",
+      "court": "Supreme Court of India",
+      "case_number": "CRIMINAL APPEAL NO(S). 3810 OF 2025",
+      "decision_date": "2025-09-01",
+      "state": "Haryana",
+      "person": "Tarun Sharma (appellant, convict serving life imprisonment)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": null
+      },
+      "facts_where": {
+        "custody": "para 67: 'He is in custody and shall be released from prison forthwith'"
+      },
+      "what_was_missing": "amicus named and appeal heard the same day, no records, no time",
+      "stage": "appeal",
+      "time_lost": "convicted 2013; 'long period of incarceration' until 2025",
+      "outcome": "High Court and trial court judgments set aside; appellant acquitted on merits and released",
+      "court_relied_on": [
+        "Article 21",
+        "Anokhilal v. State of M.P.",
+        "Mohd. Sukur Ali v. State of Assam",
+        "Chaluvegowda v. State"
+      ],
+      "quote": "The appointed amicus was neither furnished with the case records from the lower Court nor afforded reasonable time to prepare the matter or consult with the accused-appellant.",
+      "quote_where": "para 30",
+      "limits": "SC held the High Court's procedure unfair but, given long incarceration, decided merits itself instead of remitting; acquittal rests on weak dying declaration. Own counsel was engaged but absent; amicus appointed.",
+      "replay": {
+        "answers": {
+          "custody": "yes"
+        },
+        "court_clauses": [],
+        "court_basis": "a fair hearing of the appeal needs a counsel with time and records (Art. 21)",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": []
+        },
+        "divergence": "The app says eligible under (g), custody. The Court did not tie the right to a category; the failure was a same-day amicus, which the app cannot fix. The Supreme Court acquitted him on the merits."
+      }
+    },
+    {
+      "id": "sc-2023-naveen",
+      "url": "https://indiankanoon.org/doc/34705863/",
+      "source": "sources/34705863.txt",
+      "court": "Supreme Court of India",
+      "case_number": "CRIMINAL APPEAL NOs. 489-490 OF 2019",
+      "decision_date": "2023-10-19",
+      "state": "Madhya Pradesh",
+      "person": "Naveen @ Ajay (appellant, sentenced to death)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": null
+      },
+      "facts_where": {
+        "custody": "para 21: 'the accused, who was in jail and defended by a counsel from legal aid'"
+      },
+      "what_was_missing": "legal aid counsel named the day of the charge-sheet; charges framed next day",
+      "stage": "trial",
+      "time_lost": "trial completed in 15 days (27.04.2018 to 12.05.2018); death sentence until 2023",
+      "outcome": "conviction and death sentence set aside; de novo trial; DLSA Indore to provide senior counsel",
+      "court_relied_on": [
+        "Bashira v. State of U.P.",
+        "Anokhilal v. State of M.P.",
+        "Section 294 CrPC",
+        "Section 293 CrPC"
+      ],
+      "quote": "The Order-sheet would thus clearly indicate that the trial was conducted in a hurried manner without providing ample and proper opportunity to the defence counsel, who was engaged through legal aid, to prepare himself effectively.",
+      "quote_where": "para 10",
+      "limits": "Legal aid lawyer appointed same day as charge-sheet and charges framed next day; DNA/FSL reports also not proved.",
+      "replay": {
+        "answers": {
+          "custody": "yes"
+        },
+        "court_clauses": [],
+        "court_basis": "Anokhilal norms: legal aid counsel must have time and experience (Art. 21, 39A)",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": []
+        },
+        "divergence": "The app says eligible under (g), custody. The Court did not tie the right to a category; the failure was the time given to the lawyer, which the app cannot fix."
+      }
+    },
+    {
+      "id": "dl-hc-2017-nazim",
+      "url": "https://indiankanoon.org/doc/5653441/",
+      "source": "sources/5653441.txt",
+      "court": "Delhi High Court",
+      "case_number": "CRL.A. 207/2016, 208/2016, 345/2016, 467/2016 & 530/2016",
+      "decision_date": "2017-09-14",
+      "state": "Delhi",
+      "person": "Rafique, Nazim, Rahis, Azmal @ Aslam, Maksud Ahmed (appellants/accused)",
+      "persons": 5,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "no",
+        "income_below_limit": null,
+        "poor_or_indigent": null
+      },
+      "facts_where": {},
+      "what_was_missing": "six prosecution witnesses examined with no counsel and no legal aid substitute",
+      "stage": "trial",
+      "time_lost": "FIR 2008, trial concluded 2016; retrial ordered 2017",
+      "outcome": "conviction (s.394/397/120-B IPC) set aside; retrial from prosecution evidence stage; legal aid/amicus to be provided if needed",
+      "court_relied_on": [
+        "Article 39A",
+        "Legal Services Authorities Act 1987",
+        "Article 21",
+        "Article 22(1)"
+      ],
+      "quote": "The appellants were convicted by the trial court without providing an opportunity to be represented by their counsels or by providing legal aid counsel if their counsels were not available at the relevant time and without these said six witnesses being cross-examined.",
+      "quote_where": "para 21",
+      "limits": "Appellants had private counsel who were absent; failure was court not substituting legal aid counsel / denying cross-examination. Appellants were on bail; poverty not stated. Order circulated to all judicial officers.",
+      "replay": {
+        "answers": {
+          "custody": "no"
+        },
+        "court_clauses": [],
+        "court_basis": "the court must give legal aid counsel when the accused is unrepresented (Art. 21, 22(1), 39A)",
+        "expect": {
+          "eligible": false,
+          "clauses": [],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers"
+          ],
+          "notes": []
+        },
+        "divergence": "All five were on bail and the decision states no category or income, so from the stated facts the app says not eligible and points to the DLSA. The High Court rested on the duty of the trial court to every unrepresented accused, broader than the Section 12 categories the app asks about."
+      }
+    },
+    {
+      "id": "up-hc-2024-ramu",
+      "url": "https://indiankanoon.org/doc/128366366/",
+      "source": "sources/128366366.txt",
+      "court": "Allahabad High Court",
+      "case_number": "CRIMINAL MISC. BAIL APPLICATION No. - 17912 of 2019 (with 9 connected bail applications)",
+      "decision_date": "2024-08-07",
+      "state": "Uttar Pradesh",
+      "person": "Ramu (applicant, undertrial)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": "yes"
+      },
+      "facts_where": {
+        "custody": "para 6(a): \"The applicant was in jail since 14.02.2008.\"",
+        "poor": "para 15: \"The applicant is a financially destitute person belonging to a marginalized section of the society.\""
+      },
+      "what_was_missing": "no legal aid to apply for bail for over a decade",
+      "stage": "pre-trial / undertrial bail",
+      "time_lost": "in jail since 14.02.2008; bail heard on merits only 16.07.2022 (14.5 years)",
+      "outcome": "bail granted (interim made absolute); Charter of Prisoners' Rights and directions to magistrates, DLSAs, jail authorities, State",
+      "court_relied_on": [
+        "Article 39A",
+        "Article 21",
+        "Article 14",
+        "Section 12 LSA Act",
+        "Legal Services Authorities Act 1987",
+        "Section 304 CrPC",
+        "Section 341 BNSS",
+        "Rule 37 General Rules (Criminal)",
+        "UP Jail Manual Rule 412(a)/434"
+      ],
+      "quote": "The accumulation of these circumstances of want paired with legal illiteracy and denial of legal aid prolonged the detention of the applicant and has led to a miscarriage of justice.",
+      "quote_where": "para 15",
+      "limits": "Order in this file decides only Ramu's bail; 9 companion applicants (Kamil, Muneesh, Mumtaj, Vinesh, Titu, Mintu, Saleem, Pramod Kumar, Sunil Kumar) and ~60 exemplar prisoners in para 17 table described with similar delays, not counted. Bail grounds on merits also listed (para 157). Sureties reduced earlier due to 'penurious condition and social exclusion' (para 8).",
+      "replay": {
+        "answers": {
+          "custody": "yes",
+          "income": "unsure"
+        },
+        "court_clauses": [
+          "g",
+          "h"
+        ],
+        "court_basis": "a financially destitute prisoner left in jail without legal aid for bail",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": [
+            "note_income_unsure"
+          ]
+        },
+        "divergence": null
+      }
+    },
+    {
+      "id": "br-hc-2022-shambhu-nath",
+      "url": "https://indiankanoon.org/doc/115636534/",
+      "source": "sources/115636534.txt",
+      "court": "Patna High Court",
+      "case_number": "CRIMINAL APPEAL (DB) No.254 of 2016",
+      "decision_date": "2022-01-20",
+      "state": "Bihar",
+      "person": "Shambhu Nath Singh @ Shambhu Singh, Ravindra Kumar @ Ravindra Singh, Dhirendra Kumar @ Dhirendra Singh (appellants/accused)",
+      "persons": 3,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": null
+      },
+      "facts_where": {
+        "custody": "para 20: \"Through out the trial, they were in jail and were being produced before the court from jail.\""
+      },
+      "what_was_missing": "no counsel from framing of charge to s.313; not told of legal aid",
+      "stage": "trial",
+      "time_lost": "arrested 14.03.2014, in jail throughout trial; life sentence 2016; de novo trial ordered 2022",
+      "outcome": "conviction and life sentence set aside; de novo trial with legal aid counsel from commencement",
+      "court_relied_on": [
+        "Section 304 CrPC",
+        "Section 303 CrPC",
+        "Article 21",
+        "Article 22(1)",
+        "Article 39A"
+      ],
+      "quote": "Since the appellants were not being represented by any counsel, it was the mandatory duty of the court to appoint a counsel to represent them at all stages.",
+      "quote_where": "para 43",
+      "limits": "Trial court had refused recall partly because accused never applied for panel lawyer; HC held this breached s.304 CrPC. State conceded legal aid should have been provided. Lawyer engaged before Magistrate never appeared in Sessions. Poverty not expressly stated (application said no family member to do pairvi).",
+      "replay": {
+        "answers": {
+          "custody": "yes"
+        },
+        "court_clauses": [
+          "g"
+        ],
+        "court_basis": "unrepresented accused in jail throughout the trial; s.304 CrPC made it mandatory to give them a lawyer",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": []
+        },
+        "divergence": null
+      }
+    },
+    {
+      "id": "up-hc-2018-rakesh",
+      "url": "https://indiankanoon.org/doc/171823597/",
+      "source": "sources/171823597.txt",
+      "court": "Allahabad High Court",
+      "case_number": "JAIL APPEAL No. - 242 of 2013",
+      "decision_date": "2018-05-18",
+      "state": "Uttar Pradesh",
+      "person": "Rakesh (appellant/accused)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": null,
+        "income_below_limit": null,
+        "poor_or_indigent": "yes"
+      },
+      "facts_where": {
+        "poor": "para 51: \"The appellant is apparently a man of no education and no means.\""
+      },
+      "what_was_missing": "counsel deserted him; never offered a State counsel at trial",
+      "stage": "trial",
+      "time_lost": "offence 2007; convicted 09.07.2012 to life; retrial ordered 2018",
+      "outcome": "conviction and life sentence set aside; de novo trial ordered, to finish within six months",
+      "court_relied_on": [
+        "Section 304(1) CrPC",
+        "Article 21",
+        "Article 22(1)",
+        "Article 39A",
+        "Article 14",
+        "Legal Services Authorities Act 1987"
+      ],
+      "quote": "A perusal of orders recorded by the learned Trial Judge on 24.05.2012 and 30.05.2012 shows that no such offer was made to the appellant to defend him at State expense.",
+      "quote_where": "para 50",
+      "limits": "Counsel (private or legal aid, unclear) on record but absent/refused; court held sham representation attracts s.304(1). Custody at trial not stated (appeal filed from District Jail, Meerut).",
+      "replay": {
+        "answers": {
+          "income": "unsure"
+        },
+        "court_clauses": [
+          "h"
+        ],
+        "court_basis": "a man of no education and no means, never offered a lawyer at State expense",
+        "expect": {
+          "eligible": false,
+          "clauses": [],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers"
+          ],
+          "notes": [
+            "note_income_unsure"
+          ]
+        },
+        "divergence": "The decision gives poverty but no income figure and does not say he was in custody during the trial (only that the appeal was filed from jail), so the app answers \"unsure\" and sends him to the DLSA instead of saying eligible."
+      }
+    },
+    {
+      "id": "up-hc-2018-manglu",
+      "url": "https://indiankanoon.org/doc/41457796/",
+      "source": "sources/41457796.txt",
+      "court": "Allahabad High Court",
+      "case_number": "CRIMINAL APPEAL No. - 1460 of 2003",
+      "decision_date": "2018-12-21",
+      "state": "Uttar Pradesh",
+      "person": "Manglu (appellant/accused, convicted under s.302 IPC)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": "yes",
+        "income_below_limit": null,
+        "poor_or_indigent": "yes"
+      },
+      "facts_where": {
+        "custody": "para 22: 'Accused- Manglu is present in the court in Judicial Custody with his learned counsel Sri None'",
+        "poor": "para 25: 'the appellant had informed the court that he is very poor and could not afford any counsel'"
+      },
+      "what_was_missing": "no counsel at charge and at the main witness; told the court he was very poor",
+      "stage": "trial",
+      "time_lost": "in jail custody since 2003 (more than fourteen years)",
+      "outcome": "conviction and life sentence set aside; de novo trial ordered with State-cost advocate, to finish in six months",
+      "court_relied_on": [
+        "Article 21",
+        "Article 22(1)",
+        "Article 39A",
+        "Section 303 CrPC",
+        "Section 304 CrPC",
+        "Rule 37 General Rules (Criminal) 1977 Allahabad HC",
+        "Khatri v. State of Bihar",
+        "Hussainara Khatoon",
+        "M.H. Hoskot",
+        "Suk Das",
+        "Mohd. Hussain v. State (NCT of Delhi)",
+        "Bashira v. State of U.P."
+      ],
+      "quote": "It appears from the margin of the order-sheet that on 10.07.2003, the appellant had informed the court that he is very poor and could not afford any counsel but in spite of that P.W. 1 was examined and discharged, without appointing any lawyer to defend the accused, at the State cost.",
+      "quote_where": "para 25",
+      "limits": "Appellant was unrepresented in the appeal too; amicus curiae appointed by HC. Relief was retrial, not acquittal, despite 14+ years in jail.",
+      "replay": {
+        "answers": {
+          "custody": "yes",
+          "income": "unsure"
+        },
+        "court_clauses": [
+          "h"
+        ],
+        "court_basis": "he told the court he was very poor and could not afford counsel; none was given",
+        "expect": {
+          "eligible": true,
+          "clauses": [
+            "g"
+          ],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers",
+            "doc_custody"
+          ],
+          "notes": [
+            "note_income_unsure"
+          ]
+        },
+        "divergence": "The app says eligible under (g), custody; the Court pointed to his poverty (h), which the app leaves to the DLSA as \"unsure\" without an income figure. Same result, different clause."
+      }
+    },
+    {
+      "id": "ka-hc-2020-govindaraju",
+      "url": "https://indiankanoon.org/doc/189384070/",
+      "source": "sources/189384070.txt",
+      "court": "Karnataka High Court",
+      "case_number": "CRIMINAL APPEAL No.1459/2019",
+      "decision_date": "2020-12-23",
+      "state": "Karnataka",
+      "person": "Govindaraju @ Kutti (appellant/accused, aged about 22, convicted under s.376 IPC and POCSO)",
+      "persons": 1,
+      "facts": {
+        "scst": null,
+        "trafficking": null,
+        "woman": null,
+        "child": null,
+        "disability": null,
+        "disaster": null,
+        "workman": null,
+        "custody": null,
+        "income_below_limit": null,
+        "poor_or_indigent": null
+      },
+      "facts_where": {},
+      "what_was_missing": "private counsel absent; cross-examination closed as nil without a legal aid counsel",
+      "stage": "trial",
+      "time_lost": null,
+      "outcome": "conviction and life sentence set aside; remanded for cross-examination of all prosecution witnesses with Legal Services Authority advocate if needed; circular to all district judges",
+      "court_relied_on": [
+        "Article 21",
+        "Article 22(1)",
+        "Article 39A",
+        "Section 303 CrPC",
+        "Section 304 CrPC",
+        "Ashok Debbarma v. State of Tripura",
+        "Rajaram Prasad Yadav v. State of Bihar"
+      ],
+      "quote": "But, the fact remains that the trial Court has erred in not affording an opportunity to the accused to cross-examine the prosecution witnesses by providing free legal assistance.",
+      "quote_where": "para 13",
+      "limits": "Accused had a private lawyer who stopped appearing; not a case of initial denial of legal aid. Text does not state custody or poverty of this accused. Victim was a minor girl (child facts concern the victim, not the person denied aid).",
+      "replay": {
+        "answers": {},
+        "court_clauses": [],
+        "court_basis": "the trial court must give a Legal Services Authority advocate when the accused is unrepresented (Art. 21, 22(1), 39A, s.304 CrPC)",
+        "expect": {
+          "eligible": false,
+          "clauses": [],
+          "documents": [
+            "doc_id",
+            "doc_address",
+            "doc_case_papers"
+          ],
+          "notes": []
+        },
+        "divergence": "The decision states neither custody during the trial nor income, so the app has nothing to go on and says not eligible. The Court rested on the duty to every unrepresented accused, not on a Section 12 category."
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "id": "mp-hc-2018-jitendra-kushwah",
+      "url": "https://indiankanoon.org/doc/76993554/",
+      "source": "sources/76993554.txt",
+      "court": "Madhya Pradesh High Court",
+      "decision_date": "2018-10-25",
+      "state": "Madhya Pradesh",
+      "why_left_out": "Counter-example: the High Court found the legal aid counsel adequate and affirmed the death sentence.",
+      "quote": "It is submitted that on 3.7.2018 counsel from the Legal Aid was appointed for the accused, copy of the charge sheet was handed over to him and without affording any opportunity to prepare the case, charge was framed on 3.7.2018."
+    },
+    {
+      "id": "rj-hc-2026-dinesh",
+      "url": "https://indiankanoon.org/doc/196772007/",
+      "source": "sources/196772007.txt",
+      "court": "Rajasthan High Court",
+      "decision_date": "2026-07-24",
+      "state": "Rajasthan",
+      "why_left_out": "Counter-example: told of the right at first production, DLSA lawyer appointed; the court found the trial fair.",
+      "quote": "Having examined the record, we find the criticism in this appeal against the conduct of case by the legal aid counsel to be unwarranted and rather unfair."
+    },
+    {
+      "id": "sc-2025-irfan",
+      "url": "https://indiankanoon.org/doc/31392346/",
+      "source": "sources/31392346.txt",
+      "court": "Supreme Court of India",
+      "decision_date": "2025-01-16",
+      "state": "Madhya Pradesh",
+      "why_left_out": "Remand rests on DNA experts not examined; the absent legal aid lawyer is only in the appellants' grounds.",
+      "quote": "On such date, an advocate from the District Legal Services Authority was appointed for the Appellant; however, the said lawyer was not present in court."
+    },
+    {
+      "id": "up-hc-2022-najeeruddin",
+      "url": "https://indiankanoon.org/doc/181515102/",
+      "source": "sources/181515102.txt",
+      "court": "Allahabad High Court",
+      "decision_date": "2022-01-21",
+      "state": "Uttar Pradesh",
+      "why_left_out": "Retrial driven by forensic reports not put to the accused; the counsel dispute was about a private vakalatnama, not legal aid.",
+      "quote": "the court ought to have enquired from those counsels in the presence of the accused whether they were engaged by the accused and whether they had sufficient opportunity to consult the accused to effectively prepare for cross-examination."
+    },
+    {
+      "id": "sc-2024-sunita-devi",
+      "url": "https://indiankanoon.org/doc/134209834/",
+      "source": "sources/134209834.txt",
+      "court": "Supreme Court of India",
+      "decision_date": "2024-05-17",
+      "state": "Bihar",
+      "why_left_out": "Counsel got no time, but the text does not say the counsel was a legal aid counsel.",
+      "quote": "Receiving of documents by his lawyer would not be sufficient compliance, unless there was sufficient time given for him to peruse them and thereafter have a consultation."
+    },
+    {
+      "id": "dl-hc-2023-kalra",
+      "url": "https://indiankanoon.org/doc/44649395/",
+      "source": "sources/44649395.txt",
+      "court": "Delhi High Court",
+      "decision_date": "2023-08-24",
+      "state": "Delhi",
+      "why_left_out": "Deaf accused had his own lawyer and an amicus; the issue was disability accommodation, not legal aid.",
+      "quote": "It is stated that petitioner has not been extended meaningful help and support from any quarter and is suffering injustice in silence."
+    },
+    {
+      "id": "jh-hc-2026-suo-motu",
+      "url": "https://indiankanoon.org/doc/183857413/",
+      "source": "sources/183857413.txt",
+      "court": "Jharkhand High Court",
+      "decision_date": "2026-06-08",
+      "state": "Jharkhand",
+      "why_left_out": "Suo motu PIL on rape victims; no individual denied legal aid.",
+      "quote": "Ms. Padma Baraik was insisting to espouse her personal cause which could not have been entertained in a Public Interest Litigation."
+    },
+    {
+      "id": "ch-hc-2024-abc-minor",
+      "url": "https://indiankanoon.org/doc/125449421/",
+      "source": "sources/125449421.txt",
+      "court": "Punjab and Haryana High Court",
+      "decision_date": "2024-12-04",
+      "state": "Chandigarh",
+      "why_left_out": "Child had a lawyer; the assessment was set aside for late reports.",
+      "quote": "Even the medical report and social investigation report were also not provided to them well before in time, rather only five min- utes' time was afforded to peruse the reports before addressing arguments."
+    }
+  ]
+}

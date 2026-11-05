@@ -1,0 +1,544 @@
+[Cites 43, Cited by 2]
+Delhi High Court
+Rakesh Kumar Kalra Deaf Divayang vs State Govt Of Nct Delhi on 24 August, 2023
+Author: Swarana Kanta Sharma
+Bench: Swarana Kanta Sharma
+                          $~
+
+                          *      IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+                          %                                     Reserved on: 25.07.2023
+                                                              Pronounced on: 24.08.2023
+
+                          +      W.P.(CRL) 2500/2022 & CRL.M.A. 21701/2022
+
+                                 RAKESH KUMAR KALRA DEAF DIVAYANG ..... Petitioner
+                                                Through:   Mr. Dharmendra Kumar, Ms.
+                                                           Anjana, Mr. Manoj Kumar, Mr.
+                                                           Rajmani Mishra & Mr. Nitin
+                                                           Sharma, advocates alongwith
+                                                           Petitioner
+                                                versus
+
+                                 STATE GOVT OF NCT DELHI                  ..... Respondent
+                                                Through:   Ms. Rupali Bandhopadhya,
+                                                           ASC for State with SI Virender,
+                                                           PS Begumpur
+                                                           Mr. Anurag Ahluwalia, CGSC
+                                                           with Mr. Abhiyan Siddhant, GP
+                                                           for R-2(UOI)
+                                                           Mr. N. Hariharan, Senior
+                                                           Advocate (Amicus Curiae) with
+                                                           Mr. Aman Shreyas, Mr.
+                                                           Siddarth S. Yadav, Ms. Punya
+                                                           Rekha Angara, Mr. Prateek
+                                                           Bhalla, Mr. Sharian Mukherji
+                                                           and    Mr.    Mueed    Shah,
+                                                           Advocates
+                                                           Mr. Ajay Verma, Advocate for
+                                                           DSLSA
+
+
+Signature Not Verified
+                          W.P.(CRL) 2500/2022                                 Page 1 of 52
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:25.08.2023
+18:55:46
+                           CORAM:
+                          HON'BLE MS. JUSTICE SWARANA KANTA SHARMA
+
+                                                                    JUDGMENT
+
+
+Index to the Judgment PRELUDE ......................................................................................................... 3 FACTUAL BACKDROP ................................................................................. 4 SUBMISSIONS AT THE BAR ....................................................................... 7 ISSUE BEFORE THIS COURT ................................................................... 11 CONCEPT OF FAIR TRIAL........................................................................ 11
+
+(i) Fair Trial as a fundamental right of the accused .............................. 11
+
+(ii) Ensuring Fair Trial to Accused Persons with Disabilities facing Criminal Trial: Constitutional Duty of the Courts .................................... 14 ROLE OF COURTS IN ELIMINATING DISABILITY DISCRIMINATION ....................................................................................... 15 RIGHTS OF PERSONS WITH DISABILITIES ACT, 2016: AN OVERVIEW ................................................................................................... 17
+
+(i) Objectives sought to be achieved by the Act ................................... 17
+
+(ii) Relevant Provisions of the Act ......................................................... 19 ANALYSIS OF 'THE RIGHTS OF PERSONS WITH DISABILITIES ACT, 2016' ...................................................................................................... 29
+
+(i) „Access to Justice‟ under the Act ..................................................... 29
+
+(ii) Efforts made so Far to give effect to Section 12 of the Act ............ 30
+
+(iii) Deficiencies and Inadequacies in the Act regarding Special Rights of an Accused with Disabilities facing Criminal Trial .............................. 31 COURT AS AN ADJUDICATOR AND HEALER ..................................... 34 SUGGESTIONS AND DIRECTIONS ......................................................... 37
+
+(i) Theoretical Possibilities And Practical Impossibilities ................... 37
+
+(ii) Existing Jurisprudence Lacking Provisions For Accused Persons With Disabilities ........................................................................................ 37
+
+(iii) Equal Justice to Every Citizen ........................................................ 38
+
+(iv) Suggestions to Give Effect to Section 12(4)(c) of Rights of Persons with Disabilities Act, 2016 ........................................................................ 38
+
+(v) Infrastructural Improvements and Other Suggestions .................... 40
+
+(vi) Identifying Legislative Gaps and Suggesting further Inclusions for Equal Access to Justice to Accused Persons With Disabilities:
+
+Constitutional Duty of Courts as Third Pillar Of Democracy ................... 42
+(vii) A Special Court Room For Accused Persons With Disabilities Similar To Those For Vulnerable Witnesses With Assisted Technology . 44
+(viii) Directions for Effective Compliance .............................................. 47 CONCLUSION: BREAKING THE WALL AND DISMANTLING THE BARRIERS OF DISCRIMINATORY ATTITUDE ................................... 49 SWARANA KANTA SHARMA, J.
+
+1. The petitioner, by way of present writ petition filed under Article 226 of the Constitution of India read with Section 482 of the Code of Criminal Procedure, 1973 and Article 14 and 21 of the Constitution of India, seeks issuance of appropriate writ, order or directions in the nature of mandamus thereby directing the respondent/State to constitute a Special Court as per Section 84 of the Rights of Persons with Disabilities Act, 2016 and to make arrangements for the petitioner during the criminal trial which he is facing.
+
+PRELUDE
+
+2. The present case presents an opportunity to this Court to consider special measures to ensure actual access to justice to accused who suffer from disabilities by providing them facilities of assisted technology according to their disability in the Courts to ensure fair trial.
+
+3. Vide this judgment, this Court not only examines the crucial issue of equality while administering justice to persons with disabilities as accuseds, but also examines the barriers in judicial system and the law, and tries to find out whether any directions can be issued to the appropriate authorities to provide necessary infrastructure and funds to remove the obstacles and inequalities suffered by persons with disabilities facing criminal trial in the criminal Courts.
+
+4. It is crucial that this Court examine the question in view of the issue raised by the petitioner herein as to whether the judicial system itself has complied with the requirement of equality apropos a person with disability who is an accused or petitioner before the court of law, while it administers justice.
+
+FACTUAL BACKDROP
+
+5. Briefly stated, the facts of the present case are that the petitioner, who is a deaf divayang since childhood and is also suffering from post traumatic stress disorder induced cataract of eyes resulting in weak blurred vision since 2012 and post traumatic fractured maligned jaw joint stiffness since December 2014, had got married to Ms. „X‟ in the year 1996. The parties were blessed with a child in the year 1997. Wife of the petitioner is also 70% differently-abled person i.e. Polio Orthopedically Disabled having suffered polio in her left lower limb. Matrimonial differences arose between the parties in the year 2012 and several complaints were filed by the complainant/wife on the ground of verbal and physical cruelty, with the police. The differences between them had arisen after 17 years of marriage. The petitioner states that he is suffering from bilateral sensory neural hearing loss and his disability is 100%. The vision of petitioner is 6/60 of right and left eye and he cannot read beyond a distance of 6-7 inches. The petitioner has filed on record medical certificate in this regard alongwith the present petition. The petitioner states that the chargesheet in FIR bearing no. 229/2014, registered at Police Station Begumpur for offence punishable under Sections 498A/323 of Indian Penal Code, 1860 („IPC‟) was filed against him and the case is pending trial.
+
+6. It is the grievance of the petitioner that due to disabilities suffered by him, he is not able to understand and participate in the trial proceedings since the Court set up does not support a person with disability. He states that he cannot hear the verbal conversation when arguments are advanced in the Court or when evidence is being recorded. He, therefore, cannot respond effectively to the verbal conversation and its consequences in the proceedings of the case. He states that he is unable to speak due to injury induced difficulty in opening of mouth. He states that since the justice system is governed, controlled and dominated by sound based verbal conversation, he is not able to represent himself effectively, and therefore, he prays that:
+
+"A. Issue a writ of mandamus or any other writ or direction thereby directing the Respondent to constitute a special court as per section 84 to try the offences Under THE RIGHTS OF PERSONS WITH DISABILITIES ACT, 2016 to Provide the speedy, fair trial in FIR No 229/2014 PS Begumpur North west District Rohini Delhi Under section 498A IPC to the Deaf Divayang petitioner in the interest of justice.
+B. Issue a writ of mandamus or any other writ or direction thereby directing the Respondent to make arrangements during trial for:-
+a) Entire court proceedings be got recorded in camera and the same be preserved.
+b) The mode of communication be only in Hindi, English and that too in writing communication and 100% written communication in first form by everyone/every party connected with the case proceedings including the Hon‟ble Presiding officer/Judge within the simultaneous sighting of the petitioner so that the case be on record and petitioner be given adequate opportunity to represent/defend himself in writing about his written matter.
+c) To save the eyes of the petitioner from burning /itching sensation by the use of computer radiations, the petitioner be provided printed page/copy of the proceedings simultaneously for reading by the petitioner by bringing the written matter /paper close to his eyes ,the petitioner be allowed to access and view the computer screen with big fonts from a distance of about 6-7 inches near to his face/eyes when the court proceedings are typed on the computer by the stenographer of the court concerned.
+d) The court proceedings be conducted like a camera trial wherein the APP for state, stenographer, Presiding officer, reader, petitioner and his counselor any other person /witness related to case present should only be allowed at the time of the court proceedings at a particular fixed time preferably post lunch.
+e) The Legal aid counsel being provided to deaf Divayang petitioner should be of high support advocate who has been in practice as an advocate for not being less than seven years.
+f) One WhatsApp group be created consisting of the Presiding officer, stenographer, reader, complainant/witness, App for the state, Petitioner, counsel for the petitioner since the whatsapp messages are readily available in typed manner, even voice typing is available and before finalizing any order petitioner be given adequate opportunity to express/defend himself in writing over any written matter.
+g) Kindly allow the Petition of the petitioner without prejudice to his rights against unfair trial, unfair proceedings which have taken place/are taking place till the appropriate order of the Hon‟ble Court for Fair trial/Fair proceedings..."
+
+7. Petitioner also states that sound based verbal conversation oriented trial proceedings against deaf petitioner are against the principles of natural justice, and are unfair and illegal due to violation of provisions of Rights of Persons with Disabilities Act, 2016, and also violate fundamental right to equality under Article 14 of Constitution of India, and to live with dignity as guaranteed under Article 21 of the Constitution of India. He states that he does not know sign language and only knows written form languages of Hindi, English and Punjabi, therefore, sign language interpreter can be of no help to him. He states that the communication and participatory barriers for deaf divayangs like him, has reduced him to remain marginalized in the whole proceedings, which is against the right to fair trial, against the principles of natural justice and against the spirit of Constitution of India including Rights of Persons with Disabilities Act, 2016.
+
+
+
+                          SUBMISSIONS AT THE BAR
+
+                          (i)    Petitioner
+
+
+
+8. Learned counsel for the petitioner argues that the Rights of Persons with Disabilities Act, 2016 is being violated as the Court procedure is discriminatory as against a disabled accused. It is argued that the said Act lays down as to how a person with disabilities is to be protected and special measures and steps are to be taken for dignified living of the persons with disabilities. It is also stated that the appropriate Government has failed to take steps to ensure access to justice to the disabled persons.
+
+9. It is further stated that National Legal Services Authority and State Legal Services Authorities constituted under Legal Services Authorities Act, 1987 do not have provisions to ensure that persons with disabilities have access to their schemes, programme, facilities and services equally as other citizens. It is therefore argued that appropriate directions be issued to all the authorities and Government to (a) ensure that all their public documents are in accessible formats; (b) ensure that the filing departments, registry or any other office of records are supplied with necessary equipment to enable filing, storing and referring to the documents and evidence in accessible formats; and (c) make available all necessary facilities and equipment to facilitate recording of testimonies, arguments or opinion given by persons with disabilities in their preferred language and means of communication.
+
+10. It is also argued that though Chapter XIII provides for constitution of Special Courts to try offences under the Rights of Persons with Disabilities Act, 2016, there is no provision for constitution of such courts in Delhi. It is further stated that since the petitioner is unable to assist the Court or understand the verbal publication, order passed by Metropolitan Magistrate, Rohini dated 16.08.2022 vide which an Amicus Curie was appointed could not be understood by him. It is contended that fair communication through display of text, braille, tactile communication, signs, large print, accessible multimedia, written, audio, video, visual displays, sign language, plain-language, human-
+
+reader, augmentative and alternative modes will make communication and information accessible to persons like those with disabilities. It is stated that petitioner has not been extended meaningful help and support from any quarter and is suffering injustice in silence. As argued on behalf of petitioner, there is violation of Article 14 and 21 of the Constitution of India by not providing the petitioner with the above facilities and thus, the prayers made by him be allowed.
+
+(ii) State of NCT of Delhi
+
+11. Learned Additional Standing counsel appearing on behalf of the State submits that as per Section 79 of Rights or Persons with Disabilities Act, 2016, the Commissioner for Persons with Disabilities, Govt. of NCT of Delhi already stands appointed.
+
+(iii) Delhi State Legal Services Authority
+
+12. Learned counsel appearing for DSLSA states that (A) no case has been received in the Authority till date of a person with disability. However, an interpreter can be provided, in case of such legal aid seekers, (B) while representing incarcerated persons who are hearing disabled in Court Room, legal services advocates makes sure the presence of a family member or a relative of hearing disabled persons at all times, (C) yes, an interpreter can be provided, if need be.
+
+(iv) Union of India
+
+13. Learned counsel appearing for Union of India states that they are willing to comply with any order passed by the Court.
+
+(v) High Court of Delhi
+
+14. On a specific query being raised by this Court vide order dated 25.07.2023, the learned Registrar General of Delhi High Court reported that there is no specially designed or designated Court to try offences or deal with cases pertaining to offences allegedly committed by persons with disabilities to provide them with special facilities to participate as per their special needs in the criminal trial.
+
+(vi) Amicus Curiae
+
+15. Learned Senior Counsel Mr. N. Hariharan, who was appointed as an Amicus Curiae to assist this Court, submits that the Rights of Persons with Disabilities Act, 2016 provides certain special rights to the persons with disabilities. It is stated that Section 12 of the Act provides for access to justice and „persons with disabilities‟ would also include an accused who comes to the Court to face criminal trial or any other proceedings. It is further stated that Article 21 of the Constitution of India guarantees the right to fair trial to accused and thus, Section 12 of the Act must cater to the specific needs of all persons with disabilities including accused persons, keeping in mind that every type of disability will require different kind of assistance. Learned Amicus Curiae submits that steps should be taken to specifically comply with provisions of sub- section (4) of Section 12 of the Act and the concerned Legal Service Authorities must also play an effective role in ensuring access to justice in its true sense, as it is everyone‟s duty to treat persons with disabilities with equality.
+
+ISSUE BEFORE THIS COURT
+
+16. The question before this Court is how the law and this Court can be used to establish and enforce rights of persons with disabilities to access justice system effectively and meaningfully as persons facing criminal trial.
+
+CONCEPT OF FAIR TRIAL
+
+(i) Fair Trial as a fundamental right of the accused
+
+17. Access to justice is not merely a right in itself, but it serves as a gateway to safeguarding and advancing all other fundamental and human rights, and encompasses within its ambit, the right to fair trial. Fair trial is a crucial means of upholding the principle of equality before the law.
+
+18. The concept of fair trial for an accused in India is a fundamental and constitutionally protected right that forms the bedrock of the country's criminal justice system. Ensuring fair trial is essential not only to uphold the rights of the accused but also to maintain the integrity of the justice system as a whole.
+
+19. As observed by Hon‟ble Apex Court in Zahira Habibullah Sheikh (5) v. State of Gujarat (2006) 3 SCC 374, failure to provide a fair hearing either to the accused or the prosecution violates the minimum standards of due process of law. The relevant observations of the Apex Court, on the importance of fair trial, read as under:
+
+"30. Right from the inception of the judicial system it has been accepted that discovery, vindication and establishment of truth are the main purposes underlying the existence of the courts of justice. The operative principles for a fair trial permeate the common law in both civil and criminal contexts. Application of these principles involves a delicate judicial balancing of competing interests in a criminal trial: the interests of the accused and the public and to a great extent that of the victim have to be weighed not losing sight of the public interest involved in the prosecution of persons who commit offences.
+***
+33. The principle of fair trial now informs and energises many areas of the law. It is reflected in numerous rules and practices. It is a constant, ongoing development process continually adapted to new changing circumstances, and exigencies of the situation-peculiar at times and related to the nature of crime, persons involved--directly or operating be-hind, social impact and societal needs and even so many powerful balancing factors which may come in the way of administration of criminal justice system.
+***
+35. This Court has often emphasised that in a criminal case the fate of the proceedings cannot always be left entirely in the hands of the parties, crime being public wrong in breach and violation of public rights and duties, which affects the whole community as a community and is harmful to society in general. The concept of fair trial entails familiar triangulation of interests of the accused, the victim and the society and it is the community that acts through the State and prosecuting agencies. Interest of so ciety is not to be treated completely with disdain and as persona non grata. The courts have always been considered to have an overriding duty to maintain public confidence in the administration of justice often referred to as the duty to vindicate and uphold the "majesty of the law'. Due administration of justice has always been viewed as a continuous process, not confined to determination of the particular case, protecting its ability to function as a court of law in the future as in the case before it. If a criminal court is to be an effective instrument in dispensing justice, the Presiding Judge must cease to be a spectator and a mere recording machine by becoming a participant in the trial evincing intelligence, active interest and elicit all relevant materials necessary for reaching the correct conclusion, to find out the truth, and administer justice with fairness and impartiality both to the parties and to the community it serves. The courts administering criminal justice cannot turn a blind eye to vexatious or oppressive conduct that has occurred in relation to proceedings, even if a fair trial is still possible, except at the risk of undermining the fair name and standing of the judges as impartial and independent adjudicators.
+36. The principles of rule of law and due process are closely linked with human rights protection. Such rights can be protected effectively when a citizen has recourse to the courts of law. It has to be unmistakably understood that a trial which is primarily aimed at ascertaining the truth has to be fair to all concerned. There can be no analytical, all comprehensive or exhaustive definition of the concept of a fair trial, and it may have to be determined in seemingly infinite variety of actual situations with the ultimate object in mind viz. whether something that was done or said either before or at the trial deprived the quality of fairness to a degree where a miscarriage of justice has resulted. It will not be correct to say that it is only the accused who must be fairly dealt with. That would be turning a Nelson's eye to the needs of society at large and the victims or their family members and relatives. Each one has an inbuilt right to be dealt with fairly in a criminal trial. Denial of a fair trial is as much injustice to the accused as is to the victim and the society. Fair trial obviously would mean a trial before an impartial judge, a fair prosecutor and an atmosphere of judicial calm. Fair trial means a trial in which bias or prejudice for or against the ac-used, the witnesses, or the cause which is being tried is eliminated. If the witnesses get threatened or are forced to give false evidence that also would not result in a fair trial. The failure to hear material witnesses is certainly denial of fair trial.
+***
+38. Failure to accord fair hearing either to the accused or the prosecution violates even minimum standards of due process of law. It is inherent in the concept of due process of law, that condemnation should be rendered only after the trial in which the hearing is a real one, not sham or a mere farce and pretence. Since the fair hearing requires an opportunity to preserve the process, it may be vitiated and violated by an over hasty stage- managed, tailored and partisan trial.
+39. The fair trial for a criminal offence consists not only in technical observance of the frame, and forms of law, but also in recognition and just application of its principles in sub-stance, to find out the truth and prevent miscarriage of justice..."
+
+(ii) Ensuring Fair Trial to Accused Persons with Disabilities facing Criminal Trial: Constitutional Duty of the Courts
+
+20. The importance of fair trial is magnified when it comes to accused persons who are differently-abled. Ensuring fair trial for this vulnerable group is not just a fundamental right guaranteed under the Constitution to the concerned citizens but also a legal and ethical duty of the concerned Courts adjudicating upon cases involving such citizens. There is no gainsaying, that it is imperative for ensuring the scale of equality and justice.
+
+21. The thrust of jurisprudence of constitutional right to equality under Article 14 and right to life and personal liberty under Article 21 of the Constitution of India to a citizen of India is well defined. These fundamental rights cannot differ for persons with disabilities facing criminal trial and persons without disabilities. The rights of persons with disabilities under Articles 14 and 21 of the Constitution cannot be violated due to absence of relevant public policy decisions including bringing changes in the justice system to ensure that the persons with disabilities are not only welcomed in the system but are able to meaningfully access the justice system as any other citizen of the country.
+
+22. Since inclusion and equal treatment are the cornerstones of a just society, persons with disabilities have the same right to due process of law and fair trial as any other citizen of the country and denying them these rights perpetuates discrimination and inequality.
+
+23. Ensuring fair trial would mean that persons with disabilities also have the same access to justice as anyone else and have a fair opportunity to assert their legal rights and participate actively in legal proceedings. Denying them so would unjustly limit their access to justice.
+
+24. To sum up, fair trial for persons with disabilities facing criminal trial is not just a subject matter of accessibility to justice alone but on a larger canvas of fundamental rights, it is a matter of getting justice to them through fairness of legal procedure also by recognizing and accommodating their unique needs within the legal system to ensure that justice is truly accessible to all, regardless of their abilities.
+
+                          ROLE        OF        COURTS      IN     ELIMINATING            DISABILITY
+                          DISCRIMINATION
+
+
+
+25. The present case demonstrates significant obstacles faced by persons with disabilities facing criminal trial, which includes barriers to accessing justice system such as physical inaccessibility to courtrooms, communication difficulties during court proceedings, etc.
+
+26. The Constitution guarantees equality under Article 14 and right to life and personal liberty under Article 21. For persons with disabilities, such rights are strengthened by enactment in the form of the Rights of Persons with Disabilities Act, 2016 to ensure that the human rights so guaranteed constitutionally and through this Act are enforced.
+
+27. Denial of opportunity of meaningful and effective participation in a criminal trial or in a judicial proceeding amounts to judicial and constitutional failure of justice. The Rights of Persons with Disabilities Act, 2016 is Anti-Discrimination legislation which aims to ensure rigorous and judicious pursuit of equality by ensuring equality of participation in judicial system and receiving justice by persons with disabilities. Needless to say, extending the scope of Articles 14 and 21 of the Constitution of India and of the Rights of Persons with Disabilities Act, 2016 to accused persons and litigants on either side or capacity will reveal the court‟s commitment to ensure practical equality and dignity to persons with disabilities.
+
+28. In this background, the Courts have to ensure by issuance of effective orders that equality for persons with disabilities is enhanced and their dignity is protected. The violated equality and dignity has to be dealt with through enforcement orders by interpreting law in its spirit to ensure there is no tolerance for Disability Discrimination.
+
+29. There can be no occasion for judiciary to refuse imposing obligation on itself to ensure that each person enjoys right to life and liberty by interpreting or directing taking of steps and interpreting law in the spirit in which it was enacted.
+
+30. The Courts, as well as the legislature, have to recognise that the equality guaranteed to persons with disabilities through enactment of Rights of Persons with Disabilities Act, 2016 has to be substantive and not formal or theoretical.
+
+31. The inclusion of people with disabilities will ensure that the judicial system, by providing access to justice to persons with disabilities in India, makes significant progress through digitization and use of technology for making Indian Courts accessible to every citizen of the country including persons with disabilities other vulnerable and marginalized citizens.
+
+RIGHTS OF PERSONS WITH DISABILITIES ACT, 2016: AN OVERVIEW
+
+32. Having expressed the significance of right to fair trial of an accused suffering from disabilities and the duty of the Courts to take adequate steps in that regard, this Court notes that the examination of the facts of the present case clearly set out that the petitioner herein had to face disadvantage due to his disability in facing criminal trial. The same, thus, presents before this Court, an occasion to examine and interpret the Rights of Persons with Disabilities Act, 2016 in context of an accused suffering from disabilities facing trial.
+
+(i) Objectives sought to be achieved by the Act
+
+33. The Rights of Persons with Disabilities Act, 2016 was enacted in India, primarily to give effect to the United Nations Convention on Rights of Persons with Disabilities which had been signed and ratified by India. The statements of objects and reasons of the Rights of Persons with Disabilities Bill of 2014, as introduced, which later culminated into the Act of 2016 though with certain amendments, provided as under:
+
+"2. Over a period of time, the conceptual understanding of the rights of persons with disabilities has become more clear and there has been worldwide change in approach to handle the issues concerning persons with disabilities. The United Nations adopted its Convention on the Rights of Persons with Disabilities laying down the principles to be followed by the States Parties for empowerment of persons with disabilities.
+India signed the said Convention and subsequently ratified the same on the 1st day of October, 2007. The Convention came into effect on the 3rd day of May, 2008. Being a signatory to the Convention, India has an international obligation to comply with the provisions of the said Convention which required an entirely new legislation.
+***
+4. The salient features of the Rights of Persons with Disabilities Bill, 2014, inter alia, are:
+(i) Nineteen specified disabilities have been defined;
+(ii) the persons with disabilities enjoy various rights such as right to equality, life with dignity, respect for his or her integrity, etc., equally with others;
+(iii) duties and responsibilities of the appropriate Government have been enumerated;
+(iv) all educational institutions funded by appropriate Government shall provide inclusive education to the children with disabilities;
+(v) a National Fund is proposed to provide financial support to persons with disabilities;
+(vi) stakeholders‟ participation in the policy making through Central and State Advisory Boards;
+(vii) increase in reservation in posts from existing three per cent. to five per cent. in the vacancies for persons or class of persons with benchmark disabilities in every establishment and reservation of seats for students with benchmark disabilities in higher educational institutions;
+(viii) setting up of National Commission and State Commission to act as Grievance Redressal Mechanism, monitor implementation of the proposed legislation replacing the Chief Commissioner and State Commissioners for persons with disabilities, respectively;
+(ix) guidelines to be issued by the Central Government for issuance of certificates of specified disabilities;
+(x) penalties for offences committed against persons with disabilities; and
+(xi) Court of Session to be designated as Special Court by the State Government in every district to try offences.
+
+5. The Bill seeks to achieve the above objects..."
+
+34. Further, the objects which the Act aims to achieve are also reflected in the Preamble to the Act, which reads as under:
+
+WHEREAS the United Nations General Assembly adopted its Convention on the Rights of Persons with Disabilities on the 18th day of December, 2006.
+AND WHEREAS the aforesaid Convention lays down the following principles for empowerment of persons with disabilities,-
+(a) respect for inherent dignity, individual autonomy including the freedom to make one's own choices, and independence of persons:
+(b) non-discrimination;
+(c) full and effective participation and inclusion in society:
+(d) respect for difference and acceptance of persons with disabilities as part of human diversity and humanity;
+(e) equality of opportunity:
+(f) accessibility:
+(g) equality between men and women;
+(h) respect for the evolving capacities of children with disabilities and respect for the right of children with disabilities to preserve their identities;
+
+AND WHEREAS India is a signatory to the said Convention; AND WHEREAS India ratified the said Convention on the 1st day of October, 2007;
+
+AND WHEREAS it is considered necessary to implement the Convention aforesaid.
+
+(ii) Relevant Provisions of the Act
+
+35. Before moving any further, it will be also pertinent to take an overview of the relevant provisions of the Act in question, i.e. the Rights of Persons with Disability Act, 2016. These provisions have been extracted as under:
+
+Chapter I Preliminary Section 2 - Definitions
+(c) "barrier" means any factor including communicational, cultural, economic, environmental, institutional, political, social, attitudinal or structural factors which hampers the full and effective participation of persons with disabilities in society;
+(f) "communication" includes means and formats of communication, languages, display of text. Braille, tactile communication, signs, large print, accessible multimedia, written, audio, video, visual displays, sign language, plain-
+
+language, human reader, augmentative and alternative modes and accessible information and communication technology:
+
+(h) "discrimination" in relation to disability, means any distinction, exclusion, restriction on the basis of disability which is the purpose or effect of impairing or nullifying the recognition, enjoyment or exercise on an equal basis with others of all human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field and includes all forms of discrimination and denial of reasonable accommodation:
+(i) "establishment" includes a Government establishment and private establishment:
+(j) "Fund" means the National Fund constituted under section 86;
+(1) "high support" means an intensive support, physical, psychological and otherwise, which may be required by a person with benchmark disability for daily activities, to take independent and informed decision to access facilities and participating in all areas of life including education, employment, family and community life and treatment and therapy:
+(r) "person with benchmark disability" means a person with not less than forty percent of a specified disability where specified disability has not been defined in measurable terms and includes a person with disability where specified disability has been defined in measurable terms, as certified by the certifying authority;
+(s) "person with disability" means a person with long term physical, mental, intellectual or sensory impairment which, in interaction with barriers, hinders his full and effective participation in society equally with others: (w) "public building" means a Government or private building, used or accessed by the public at large, including a building used for educational or vocational purposes, workplace, commercial activities, public utilities, religious, cultural, leisure or recreational activities, medical or health services, law enforcement agencies, reformatories or judicial for as, railway stations or platforms, roadways bus stands or terminus, airports or waterways:
+(x) "public facilities and services" includes all forms of delivery of services to the public at large, including housing, educational and vocational trainings, employment and career advancement, shopping or marketing, religious, cultural, leisure or recreational, medical, health and rehabilitation, banking, finance and insurance, communication, postal and information, access to justice, public utilities, transportation: (y) "reasonable accommodation" means necessary and appropriate modification and adjustments, without imposing a disproportionate or undue burden in a particular case, to ensure to persons with disabilities the enjoyment or exercise of rights equally with others (ze) "universal design" means the design of products, environments, programmes and services to be usable by all people to the greatest extent possible, without the need for adaptation or specialised design and shall apply to assistive devices including advanced technologies for particular group of persons with disabilities.
+
+Chapter II Rights and Entitlements Section 3 - Equality and Non-Discrimination (1) The appropriate Government shall ensure that the persons with disabilities enjoy the right to equality, life with dignity and respect for his or her integrity equally with others.
+
+(2) The appropriate Government shall take steps to utilise the capacity of persons with disabilities by providing appropriate environment.
+
+(3) No person with disability shall be discriminated on the ground of disability. unless it is shown that the impugned act or omission is a proportionate means of achieving a legitimate aim. (4) No person shall be deprived of his or her personal liberty only on the ground of disability.
+
+(5) The appropriate Government shall take necessary steps to ensure reasonable accommodation for persons with disabilities.
+
+Section 12 - Access to Justice (1) The appropriate Government shall ensure that persons with disabilities are able to exercise the right to access any court, tribunal, authority, commission or any other body having judicial or quasi-judicial or investigative powers without discrimination on the basis of disability.
+
+(2) The appropriate Government shall take steps to put in place suitable support measures for persons with disabilities specially those living outside family and those disabled requiring high support for exercising legal rights.
+
+(3) The National Legal Services Authority and the State Legal Services Authorities constituted under the Legal Services Authorities Act, 1987 (39 of 1987) shall make provisions including reasonable accommodation to ensure that persons with disabilities have access to any scheme, programme, facility or service offered by them equally with others.
+
+(4) The appropriate Government shall take steps to-
+
+(a) ensure that all their public documents are in accessible formats:
+
+(b) ensure that the filing departments, registry or any other office of records are supplied with necessary equipment to enable filing, storing and referring to the documents and evidence in accessible formats; and
+(c) make available all necessary facilities and equipment to facilitate recording of testimonies, arguments or opinion given by persons with disabilities in their preferred language and means of communication.
+
+Chapter VIII Duties and Responsibilities of Appropriate Governments Section 40 - Accessibility.
+
+The Central Government shall, in consultation with the Chief Commissioner, formulate rules for persons with disabilities laying down the standards of accessibility for the physical environment, transportation, information and communications, including appropriate technologies and systems, and other facilities and services provided to the public in urban and rural areas Section 44 - Mandatory observance of accessibility norms (1) No establishment shall be granted permission to build any structure if the building plan does not adhere to the rules formulated by the Central Government under section 40. (2) No establishment shall be issued a certificate of completion or allowed to take occupation of a building unless it has adhered to the rules formulated by the Central Government.
+
+Section 45 - Time limit for making existing infrastructure and premises accessible and action for that purpose (1) All existing public buildings shall be made accessible in accordance with the rules formulated by the Central Government within a period not exceeding five years from the date of notification of such rules:
+
+Provided that the Central Government may grant extension of time to the States on a case to case basis for adherence to this provision depending on their state of preparedness and other related parameters.
+(2) The appropriate Government and the local authorities shall formulate and publish an action plan based on prioritisation, for providing accessibility in all their buildings and spaces providing essential services such as all primary health centres, civil hospitals, schools, railway stations and bus stops.
+
+Chapter XIII Special Court Section 84 - Special Court For the purpose of providing speedy trial, the State Government shall, with the concurrence of the Chief Justice of the High Court, by notification, specify for each district, a Court of Session to be a Special Court to try the offences under this Act.
+
+Section 85 - Special Public Prosecutor (1) For every Special Court, the State Government may, by notification, specify a Public Prosecutor or appoint an advocate, who has been in practice as an advocate for not less than seven years, as a Special Public Prosecutor for the purpose of conducting cases in that Court.
+
+(2) The Special Public Prosecutor appointed under sub-section (1) shall be entitled to receive such fees or remuneration as may be prescribed by the State Government.
+
+Chapter XIV National Fund for Persons with Disabilities Section 86 - National Fund for Persons with Disabilities
+
+1) There shall be constituted a Fund to be called the National Fund for persons with disabilities and there shall be credited thereto -
+
+(a) all sums available under the Fund for people with disabilities, constituted vide notification No. S.O. 573 (E), dated the 11th August, 1983and the Trust Fund for Empowerment of Persons with Disabilities, constituted vide notification No. 30- 03/2004-DDII, dated the 21stNovember, 2006, under the Charitable Endowment Act, 1890 (6 of 1890).
+
+(b) all sums payable by banks, corporations, financial institutions in pursuance of judgment dated the 16th April, 2004 of the Hon'ble Supreme Court in Civil Appeal Nos. 4655 and 5218 of 2000:
+
+(c) all sums received by way of grant, gifts, donations, benefactions, bequests or transfers:
+(d) all sums received from the Central Government including grants in aid:
+(e) all sums from such other sources as may be decided by the Central Government.
+(2) The Fund for persons with disabilities shall be utilised and managed in such manner as may be prescribed.
+
+Chapter XV State Fund for Persons with Disabilities Section 88 - State Fund for Persons with Disabilities (1) There shall be constituted a Fund to be called the State Fund for persons with disabilities by a State Government in such manner as may be prescribed by the State Government. (2) The State Fund for persons with disabilities shall be utilised and managed in such manner as may be prescribed by the State Government.
+
+(3) Every State Government shall maintain proper accounts and other relevant records of the State Fund for persons with disabilities including the income and expenditure accounts in such form as may be prescribed by the State Government in consultation with the Comptroller and Auditor General of India. (4) The accounts of the State Fund for persons with disabilities shall be audited by the Comptroller and Auditor General of India at such intervals as may be specified by him and any expenditure incurred by him in connection with such audit shall be payable from the State Fund to the Comptroller and Auditor General of India.
+
+(5) The Comptroller and Auditor-General of India and any person appointed by him in connection with the audit of the accounts of the State Fund for persons with disabilities shall have the same rights, privileges and authority in connection with such audit as the Comptroller and Auditor-General of India generally has in connection with the audit of the Government accounts, and in particular, shall have right to demand production of books of accounts, connected vouchers and other documents and papers and to inspect any of the offices of the State Fund.
+
+(6) The accounts of the State Fund for persons with disabilities as certified by the Comptroller and Auditor General of India or any other person appointed by him in this behalf together with the audit report thereon shall be laid before each House of the State Legislature where it consists of two Houses or where such Legislature consists of one House before that House.
+
+Chapter XVI Offences and Penalties Section 89 - Punishment for contravention of provisions of Act or rules or regulations made thereunder Any person who contravenes any of the provisions of this Act, or of any rule made thereunder shall for first contravention be punishable with fine which may extend to ten thousand rupees and for any subsequent contravention with fine which shall not be less than fifty thousand rupees but which may extend to five lakh rupees.
+
+Section 92 - Punishment for offences of atrocities Whoever,
+
+(a) intentionally insults or intimidates with intent to humiliate a person with disability in any place within public view:
+
+(b) assaults or uses force to any person with disability with intent to dishonour him or outrage the modesty of a woman with disability:
+(c) having the actual charge or control over a person with disability voluntarily or knowingly denies food or fluids to him or her
+(d) being in a position to dominate the will of a child or woman with disability and uses that position to exploit her sexually:
+(e) voluntarily injures, damages or interferes with the use of any limb or sense or any supporting device of a person with disability;
+(f) performs, conducts or directs any medical procedure to be performed on a woman with disability which leads to or is likely to lead to termination of pregnancy without her express consent except in cases where medical procedure for termination of pregnancy is done in severe cases of disability and with the opinion of a registered medical practitioner and also with the consent of the guardian of the woman with disability, shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to five years and with fine.
+
+Section 93 - Punishment for failure to furnish information Whoever, fails to produce any book, account or other documents or to furnish any statement, information or particulars which, under this Act or any order, or direction made or given thereunder, is duty bound to produce or furnish or to answer any question put in pursuance of the provisions of this Act or of any order, or direction made or given thereunder, shall be punishable with fine which may extend to twenty-five thousand rupees in respect of each offence, and in case of continued failure or refusal, with further fine which may extend to one thousand rupees for each day, of continued failure or refusal after the date of original order imposing punishment of fine.
+
+Section 94 - Previous sanction of appropriate Government No Court shall take cognizance of an offence alleged to have been committed by an employee of the appropriate Government under this Chapter, except with the previous sanction of the appropriate Government or a complaint is filed by an officer authorised by it in this behalf.
+
+Section 95 - Alternative punishments Where an act or omission constitutes an offence punishable under this Act and also under any other Central or State Act, then, notwithstanding anything contained in any other law for the time being in force, the offender found guilty of such offence shall be liable to punishment only under such Act as provides for punishment which is greater in degree.
+
+Chapter XVII Miscellaneous Section 96 - Application of other laws not barred The provisions of this Act shall be in addition to, and not in derogation of the provisions of any other law for the time being in force.
+
+36. It will also be crucial to take note of Rule 15 contained in the Rights of Persons with Disabilities Rules, 2017, which reads as under:
+
+Rule 15 - Rules for Accessibility.
+(1) Every establishment shall comply with the following standards relating to physical environment, transport and information and communication technology, namely-
+(a) standard for public buildings as specified in the Harmonised Guidelines and Space Standards for Barrier Free Built Environment for Persons With Disabilities and Elderly Persons as issued by the Government of India, Ministry of Urban Development in March, 2016;
+(b) standard for Bus Body Code for transportation system as specified in the notification of the Government of India in the Ministry of Road Transport and Highways, vide number G.S.R. 895(E), dated the 20th September, 2016;
+(c) Information and Communication Technology-
+(i) website standard as specified in the guidelines for Indian Government websites, as adopted by Department of Administrative Reforms and Public Grievances, Government of India;
+(ii) documents to be placed on websites shall be in Electronic Publication (PUB) or Optical Character Reader (OCR) based pdf format:
+Provided that the standard of accessibility in respect of other services and facilities shall be specified by the Central Government within a period of six months from the date of notification of these rules.
+(2) The respective Ministries and Departments shall ensure compliance of the standards of accessibility specified under this rule through the concerned domain regulators or otherwise.
+                           ANALYSIS           OF     'THE     RIGHTS        OF   PERSONS            WITH
+                          DISABILITIES ACT, 2016'
+
+
+                          (i)      'Access to Justice' under the Act
+
+
+37. Through this Act, the legislature intended to ensure constitutional equality for full participation of persons with disabilities in the judicial process.
+38. This Court notes that Section 3 of the Act enshrines the right of persons with disabilities to equality and non-discrimination. To enforce the said right in the justice system, Section 12 of the Act provides the principle of „access to justice‟ and strives to ensure that persons with disabilities are able to exercise their constitutional right to access any court of law without discrimination due to them being differently-abled.
+
+Section 12, thus, cast a duty on the Central and State Governments to make suitable arrangements to ensure accessibility in the Courts and justice to persons with disabilities.
+
+39. Section 12(4) further directs the Governments concerned to take steps to ensure that:
+
+(a) all the public documents are in accessible formats,
+(b) concerned departments or registry in the Courts are supplied with necessary equipment to enable filing, storing and referring documents and evidence and accessible formats, and
+(c) all necessary facilities and equipment are made available which would facilitate recording of evidence, arguments or opinions given by persons with disabilities, in their preferred language and means of communication.
+
+40. At this juncture, it is crucial to note that the provisions of Section 12, with regard to access to justice in Courts of law, deals with all persons with disabilities, and does not create any differentiation between a victim or a complainant or an accused or a petitioner or a respondent. Thus, the Act envisages that justice must be accessible to all persons with disabilities, and they are provided with an equal opportunity so that their disability does not stand as a barrier to their access to justice.
+
+41. Since Section 12(4) of the Act is cast in mandatory terms, the appropriate Government is bound to take steps as mandated under the said provision including ensuring that all necessary records of the courts are provided in accessible formats and providing facilities and assistance to ensure that judicial machinery is accessible to all persons with disabilities in its true intent.
+
+(ii) Efforts made so Far to give effect to Section 12 of the Act
+
+42. Firstly, it is pertinent to take note of the fact that Hon‟ble Apex Court in last few years, has undertaken several initiatives and rigorous exercise to ensure that filing departments or registry in the Courts have access to necessary physical and technological equipment to enable filing, storing and referring to documents in formats which are accessible to all persons including persons with disabilities. These initiatives of the Hon‟ble Supreme Court align with the legislative intent of clause (b) of Section 12(4) of the Act.
+
+43. In this regard, the E-Committee of the Hon'ble Apex Court, in order to make digital infrastructure of our judicial system more accessible, has formulated a Standard Operating Procedure for Preparing Accessible Court Documents, which comprehensively guides as to how the relevant documents, in the form of PDFs, can be created in a way which makes it accessible easily even to persons with disabilities.
+
+44. Taking inspiration from the initiatives of the Hon‟ble Apex Court, this Court also, most recently on 15.08.2023, has shifted all the websites of Delhi District Courts on „Secure, Scalable and Sugamya Website as a Service‟ (S3WaaS) platform, which provides several benefits including compliance of accessibility norms by keeping all the documents on the website in OCR format. Moreover, to give due effect to the Standard Operating Procedure for Preparing Accessible Court Documents issued by the E-Committee of the Hon‟ble Apex Court, a Web Accessibility Compliant Cause List has been launched in this Court, which would help the visually impaired advocates, litigants and public at large to access the cause list seamlessly by using various accessibility text-to-speech software. These initiatives undertaken by the Information Technology Committee/Accessibility Committee of this Court also reflect the commitment of this Court to fulfill the mandate of clause (b) of Section 12(4) of the Act.
+
+(iii) Deficiencies and Inadequacies in the Act regarding Special Rights of an Accused with Disabilities facing Criminal Trial
+
+45. As discussed above, steps have been taken by this Court, under the guidance of Hon'ble Supreme Court of India, to digitize the functioning of the Court including District Courts in Delhi, such as making websites accessible to all persons with a view to create an ecosystem where the official records of the Courts can be accessed by the public at large including those who, due to any disability, were precluded from accessing the same earlier. However, the appropriate Government has not taken any steps to enforce the duty as contained in clause (c) of Section 12(4) of the Act, which provides for ensuring availability of suitable facilities for recording of evidence or hearing arguments during trial etc. in any criminal or other case before a Court of law.
+
+46. Another glaring inadequacy noted by the Court with assistance of the learned Amicus Curiae in the scheme of the Rights of Persons with Disabilities Act, 2016 is that Section 84 though provides for constitution of a Special Court in each district of a State, the same pertains to the Courts conducting trial of offences contained in Chapter XVI of the Act, and cannot per se be used to try offences committed under the Indian Penal Code or any other penal law. In other words, Section 84 of the Act does not contemplate trial of offences committed by persons with disabilities in general, but only the offences under the Act committed against persons with disabilities by anyone.
+
+47. Section 45 of the Act is a step forward, providing for time limit to make existing infrastructure and premises accessible for persons with disabilities and casts duty upon the concerned Governments to provide, on priority, accessibility in the buildings and spaces of Governments and local authorities, and in spaces providing essential services such as primary health centres, civil hospitals, schools, railway station and bus stops. However, it does not include within its ambit, the Courts of law dealing with cases pertaining to trial of persons with disabilities.
+
+48. This Court is also of the opinion that Section 40 of the Act casts a duty on the Central Government to formulate rules for persons with disabilities, laying down standards of accessibility for the physical environment, transportation, information and communication including appropriate technologies and systems and other facilities and services provided to the public in urban and rural areas. In this Court‟s opinion, for the accessibility under Section 40 of the Act, rules should also be specifically formulated for persons with disabilities against whom criminal proceedings or other proceedings are pending before the Court of law, whether they are petitioners or respondents in a civil case, or a victim or an accused in any offence committed under Indian Penal Code or any other law of the country in addition to Rights of Persons with Disabilities Act, 2016, to include accessibility in every form or means to the Courts of law and access to justice.
+
+49. It is also interesting to note that Section 44 of the Act which is mandatory in nature lays down that no establishment shall be granted permission to build any structure if a building plan does not adhere to the rules formulated by the Central Government under Section 40 and that no establishment shall be issued a certificate of completion or allowed to take occupation of the building, unless it has adhered to the rules formulated by the Central Government in this regard. However, there are hardly any buildings or establishments including the Courts which deal with the problems and address the special needs, including structural or communication barriers, or needs of visually impaired persons including accused facing criminal trial or those who have to appear as witness to depose/record their testimonies, to accommodate them by ensuring them that structural and other impediment do not work as barriers to fair trial and equal access to justice as enjoyed by other citizens.
+
+50. Needless to observe, these deficiencies in the Act amount to infringement of the fundamental right of equality of persons with disabilities i.e. to have equal right to accessible and fair trial and judicial system as well as right to life and dignity by ensuring that they are not made to feel, even if unintentionally, that they are lesser than other citizens of this Country.
+
+COURT AS AN ADJUDICATOR AND HEALER
+
+51. The Indian Courts have always made equality enforcing efforts in the judicial system and have addressed the needs of the marginalized and vulnerable persons. While historically, the attention of the Courts may have focused on the problems faced by the victims or complainants in the judicial system, the concerns about discriminatory barriers and attitudes in the courts against persons with disabilities were dealt with laudably. The attention was primarily focused and directed towards victims, or persons who are victimized and are sufferers as complainants, which was dealt with primarily by the Rights of Persons with Disabilities Act, 2016.
+
+52. However, there have been few occasions to explore the extent to which right to equal access to justice has to be extended to accused with disabilities in an inclusive way.
+
+53. It is ironical that Courts are supposed to be the institutions where citizens can go for enforcement of their constitutional rights including those under Article 14 and 21 of the Constitution of India. However, it is disturbing that the barriers in infrastructure, building structures and technology hinder the rights of persons with disabilities to participate in the judicial process, thereby infringing their right to equality and dignity. Even today, our trial courts have structural and technological barriers which do not address mobility issues, the needs of visual handicaps which include persons with low vision as in the present case, hearing impaired persons, etc. Such barriers take away their right to full participation in the trial and, thus, not only excludes them from participation and understanding of the trial, but also brings them on unequal footing with other citizens with no disability who can participate in the trial effectively. It is equally disturbing to note that if our trial courts have these barriers, persons with disabilities will not be able to enforce their rights through the judicial process.
+
+54. Unquestionably, persons with disabilities who are facing trial as accused or have approached a court of law as petitioners face significant difficulties to make effective use of judicial process and, therefore, need immediate corrective actions and measures. It requires not only the judicial examination of the issue in question, but also examination of the issue from the prospective of providing infrastructure as per mandate of the Act by the Governments concerned.
+
+55. The deaf and visually impaired accused, in the present set up of judicial adjudication, is unable to gain swifter and actual access to the judicial process. In the instant case, the petitioner had moved applications on 27.08.2015, 31.08.2015, 11.12.2015, 07.01.2016, 27.06.2016, 03.12.2016, 05.12.2016, 06.11.2017, 16.09.2019 and 22.03.2021 to have silence-based 100% written conversations in first form in whole proceeding by every party related to case, however, to no avail. It thus made a wall of discriminatory attitudes with the petitioner seeking to participate in the trial.
+
+56. Justice is quest to seek truth. An accused or a litigant, who is a person with disabilities, should not suffer adverse discrimination due to insensitivity or lack of understanding of disability and equality by a Court of law. The barriers and stereotypes regarding disabilities should not be allowed to result in causing miscarriage of justice.
+
+57. Discrimination to persons with disabilities may not always be obvious or evident. Due to their disability, they are unable to fully participate in a trial due to lack of proactive approach of the Courts or use of technology which is not fault of a person with disability.
+
+58. The process of hearing arguments and recording testimony at every stage of trial cannot be applied in traditional ways and standards in case of a person with disability facing criminal trial or being a litigant. In other words, in a judicial trial and proceedings, there cannot be same yardstick or standard formulas or directions as each case, especially a criminal case, will have different challenges based on different facts. A blind victim of a crime, a dumb victim or offender or person with developmental issues and disabilities will have to be treated differently and use of technology must be made to ensure that the doctrine of fair justice which is deeply embedded in our jurisprudence and constitutional vision does not fail under any circumstance.
+
+SUGGESTIONS AND DIRECTIONS
+
+(i) Theoretical Possibilities And Practical Impossibilities
+
+59. The fundamental principles of justice not only include application of substantive law for adjudication and trial, but essentially also include rules of procedural fairness. The theoretical possibilities and practical impossibilities which have been highlighted through this case in the context of accused persons with disability facing trial or petitioner having approached a court of law has persuaded this Court to re-visit and appreciate the Rights of Persons with Disabilities Act, 2016, and Articles 14 and 21 of Constitution of India in context of persons with disabilities who are accused or petitioners to examine existing jurisprudence in this regard, and examine as to whether it is sufficient to ensure that the present law and measures by the government and other authorities do not deprive individuals with disabilities of their rights to life and liberty and dignified existence.
+
+(ii) Existing Jurisprudence Lacking Provisions For Accused Persons With Disabilities
+
+60. In this Court‟s opinion, the existing jurisprudence in this area does not suggest that there are specific provisions in law including the Rights of Persons with Disabilities Act, 2016 to deal with the difficulties faced by the accused facing trial or having filed cases for enforcement of their rights, etc., which will enable them to meaningfully and practically be able to access justice or participate in it actually and meaningfully.
+
+(iii) Equal Justice to Every Citizen
+
+61. The constitutional vision of India rests on understanding that every citizen has a right to equal benefit of law, equal protection of law and equal access to justice.
+
+62. Thus, having discussed the scheme of the Act and having taken note of the deficiencies in the same, this Court as part of its constitutional duty to dispense justice to the last and the least, considers it most appropriate to pass the following guidelines and directions to different authorities for ensuring meaningful and equal access of justice, to persons with disabilities when they appear before the Court and are facing trial.
+
+(iv) Suggestions to Give Effect to Section 12(4)(c) of Rights of Persons with Disabilities Act, 2016
+
+63. While facing criminal trial, the accused may be convicted and sentenced, and thus, he will have to effectively defend himself and depose when his statement is to be recorded or statement of witnesses are being recorded as well as participate in the proceedings at all other stages of criminal trial effectively. For ensuring the same, the accused has to hear, see and understand what the witnesses are deposing against him and is able to understand the Court proceedings including what the Judge interacts in the Court during trial with counsels, witnesses, co- accuseds, etc.
+
+64. It is also important to note that Indian jurisprudence provides every litigant, a right to self-representation, which is also available to an accused in a criminal case. It is crucial to note that an accused can also be a person with disability, as in the present case, and in a situation where the accused chooses to represent his case himself, the significance of having access to necessary facilities, equipment and technology to assist him in accessing justice becomes significantly critical.
+
+65. In case the justice system is inaccessible in any manner, it will end in miscarriage of justice and the right guaranteed of equality and access to justice will be rendered meaningless in cases of an accused with disabilities.
+
+66. Thus, the Courts have to device alternative methods to ensure that persons with disabilities facing trial can avail special means or facilities as per mandate of the Act. Such facilities, to name a few, may be:
+
+i. use of braille to enable person with visual disability to read; ii. sign language to facilitate communication with a person having partial/complete hearing impairment;
+iii. new computer and other technology through which a visually impaired person can use speech synthesizers connected to a computer which can read aloud the text of computer screen to the visually impaired through electronically generated voice; iv. low vision computer to enlarge the printed text, display them on computer, video monitor which can be visually read by users with very limited eye sight.
+
+67. All this will ensure fair trial and effective participation in trial by an accused with disabilities. Needless to say, the aforesaid list is illustrative and not exhaustive.
+
+(v) Infrastructural Improvements and Other Suggestions
+
+68. To further ensure overall accessibility of justice system to the persons with disabilities as an accused in a criminal trial or a petitioner before a Court of law, this Court also deems it apposite to suggest the following:
+
+a) Disabled-friendly Courts: The court complex and buildings should be disabled friendly, not only as far as their entry and exit is concerned, but the court rooms should also be disabled friendly. Immediate steps should be taken in this regard that facilities are provided to persons with disabilities such as parties, counsels, witnesses, etc. so that they have no difficulty, not only in physically accessing the court rooms, but also in participating in the judicial process by use of technology. Necessary facilities including wheel chairs, elevators and other modes to provide mobility to persons who cannot walk must be ensured in all court complexes.
+b) Clear indication for designated Court Rooms: In case of trial of person with disabilities as an accused, it should be specifically mentioned as to where the designated court room is and which designated court staff or official can be contacted to help such accused including providing their phone numbers and the respective District Judges appointing any official as Nodal Officer in this regard.
+c) Employing Technology: There should be a pool of sign language interpreters and Courts should also have new technology, machines and services which support visual and hearing impaired persons, etc.
+d) Judicial Education and Training: Judicial education and training regarding needs of persons with disabilities as accused, witnesses, parties, counsels, etc. will ensure realistic barrier removal by those involving dispensation of justice. It will go a long way in improving these issues of equality in the administration of justice. Judges have to ensure that the barriers are lifted and discrimination due to disabilities is not experienced by any person coming to the court of law, be it victim, accused, witness, advocate, or even a judicial officer. Judicial training programmers must include training and education on understanding of issues concerning right to equality of persons with disabilities to ensure meaningful justice.
+e) Proactive approach of the Judges: Proactive and sensitive approach of the Courts to ensure asking and understanding the needs of accused, witnesses, advocates and other persons with disabilities will ensure fair adjudication process.
+f) Ensuring an accused person with disabilities' access to justice: As per information collected by this Court, there is no provision in the District Courts for the following: (i) as to how persons with disabilities, if arrested by the police for some offence will be lodged in the police lockup, (ii) how will such a person be brought to the Court and thereafter be taken to the prison and (iii) as to how will he be commuted and accommodated in the jail van when he is to be produced before the Court for trial. A comprehensive scheme should be made in this regard.
+g) Training and Sensitization for hidden disabilities or invisible illness: At times, Courts may experience cases of hidden disabilities or invisible illness such as autism or psychological disorders including post traumatic stress disorder. Similarly, for instance, some people with visual or auditory disabilities who do not wear glasses or hearing aids may not appear to be disabled. It is therefore essential that the persons involved at pre-trial stage, whether police officials or lawyers or judges, are adequately trained to recognize those forms of disability that are not immediately apparent and to accommodate any needs that may arise.
+(vi) Identifying Legislative Gaps and Suggesting further Inclusions for Equal Access to Justice to Accused Persons With Disabilities: Constitutional Duty of Courts as Third Pillar Of Democracy
+
+69. While acting as a judge, a Court adjudicates criminal and constitutional law and other areas of law. In the process, a Court adjudicates issues in relation to constitutional rights or interpretation of provisions of the Code of procedures. It also addresses legal principles of importance, however, apart from constitutional rights and human rights issues, the Courts also deal with human issues. While the legislature makes law, it is the courts who apply the law and therefore, it is from the Court rooms that not only jurisprudence evolves, but also the grey areas of law or practical difficulties of laws can emerge and be pointed out by the judiciary as one of the pillars of democracy, to the legislature. It is the constitutional, moral and ethical duty of the judge to not to fail when the questions, as posed in the present case, are presented for adjudication. It should not be application of law alone which may guide the constitutional courts in all cases but also finding solutions to the practical difficulties faced by people which should also become the focal point of adjudication in such cases.
+
+70. In this background, this Court draws the attention of the legislature and suggests that the Rights of Persons with Disabilities Act, 2016 should have a specific provision to deal with needs of witnesses, accused, advocates, counsels, public persons who take part in judicial trial and proceedings to remove their exclusion from the judicial process and ensure their meaningful participation in the same. The Act at present only deals with victims under the provisions of the Act.
+
+(vii) A Special Court Room For Accused Persons With Disabilities Similar To Those For Vulnerable Witnesses With Assisted Technology
+
+71. While there are special rooms and facilities available for vulnerable witnesses in Court complexes, there are none for accused persons with disabilities and those facing criminal trials.
+
+72. As regards the vulnerable witnesses, the 'Guidelines for Recording Evidence of Vulnerable Witnesses in Criminal Matters' as prepared by this Court, initially defined vulnerable witness as a child who has not completed the age of 18 years. The guidelines refer to a „waiting room‟ where vulnerable witnesses can wait safely and where they can be provided with comfort items such as books, blankets, toys, TV, etc. The guidelines also refer to employing special measures which may provide assistance in recording deposition of vulnerable witnesses and also includes descriptive aids and testimonial aids which may be used as per the needs of vulnerable witnesses. The guidelines also provide for „support persons‟ which includes guardian ad litem, legal aid lawyer, facilitators, interpreters, translators and any other person appointed by court or any other person appointed by the court to provide support, accompany and assist the vulnerable witness to testify or attend judicial proceedings.
+
+73. In State of Maharashtra v. Bandu @ Daulat (2018) 11 SCC 163, the Hon‟ble Apex Court had issued directions for setting up "special centres for examination of vulnerable witnesses" in criminal cases so as to facilitate a conducive environment for recording the statements of vulnerable witnesses. The Apex Court had also considered this Court‟s Guidelines for Vulnerable Witnesses and had observed that special centres had already been set up in Delhi for the purpose of recording testimonies of such witnesses.
+
+74. Though the Guidelines for Recording Evidence of Vulnerable Witnesses in Criminal Matters were issued by this Court in context of vulnerable witnesses which as defined, meant only minor witnesses, the Hon‟ble Apex Court in Smruti Tukaram Badade v. State of Maharashtra & Anr 2022 SCC OnLine SC 78 expanded the meaning of „vulnerable witness‟ as defined in the Guidelines and several other persons, including persons with disabilities, have been included within the ambit of „vulnerable witnesses‟. The relevant observations of the Hon‟ble Apex Court read as under:
+
+"1. The need for and importance of setting up facilities which cater to the need for creating a safe and barrier free environment for recording the evidence of vulnerable witnesses has engaged the attention of this Court over two decades. In Sakshi v Union of India, this Court issued directions in addition to those which were contained in the decision in State of Punjab v Gurmit Singh...
+***
+4. This Court issued notice to all the High Courts in pursuance of which they have appeared through Counsel. Based on the material which has been placed before the Court, Ms. Vibha Datta Makhija, amicus curiae, has prepared a tabulated statement of the position of infrastructure in various High Courts as of 25 October 2021. A copy of the tabulated statement is annexed as a broad indicator at Annexure „A‟ to this order. Based on the deliberations which have taken place during the course of proceedings in the Court, the suggestions which have been proposed by the amicus curiae and the responses of some of the Counsel who have appeared on behalf of the High Courts, the following directions are issued under Article 142 of the Constitution in furtherance of the earlier decisions of this Court.
+These are intended to facilitate the implementation of the directions which were rendered on 24 October 2017 in Bandu (supra) and earlier in other decisions.
+5. The directions are enumerated below:
+(i) The definition of "vulnerable witness" contained in Clause 3(a) of the „Guidelines for recording evidence of vulnerable witnesses in criminal matters‟ of the High Court of Delhi shall not be limited only to child witnesses who have attained the age of 18 years and should be expanded to include, inter alia, the following categories of vulnerable witnesses:
+(a) Age neutral victims of sexual assault read with Sections 273 and 327 of the Code of Criminal Procedure 1973 and Section 354 of the Indian Penal Code 1860;
+
+(b) Gender neutral victims of sexual assault read with Section 2(d) of the Protection of Children from Sexual Offences Act 2012;
+
+(c) Age and gender neutral victims of sexual assault under Section 377 of the Indian Penal Code 1860 read with paragraph 34(1) of the decision in Sakshi (supra);
+
+(d) Witnesses suffering from "mental illness" as defined under Section 2(s) of the Mental Healthcare Act 2017 read with Section 118 of the Indian Evidence Act 1872;
+
+(e) Any witness deemed to have a threat perception under the Witness Protection Scheme 2018 of the Union Government as approved by this Court in Mahender Chawla v Union of India;
+
+(f) Any speech or hearing impaired individual or a person suffering from any other disability who is considered to be a vulnerable witness by the competent court; and
+
+(g) Any other witness deemed to be vulnerable by the concerned court..."
+
+(Emphasis Supplied)
+
+75. Thus, the Hon‟ble Apex Court has directed all the States to include any speech or hearing impaired individual or even any other person with disability who may be considered to be a vulnerable witness by the Court concerned to be included within the meaning of „Vulnerable Witness‟.
+
+76. On the same lines as vulnerable witness rooms, a room can be dedicated to the needs of accused persons with disabilities which will have all the needful assistive technology or other facilities in accordance with their specific needs.
+
+(viii) Directions for Effective Compliance
+
+77. In addition to the aforesaid suggestions for ensuring effective compliance of Section 12(4)(c) as well as other provisions of the Act, this Court further directs as under:
+
+i. The Government of NCT of Delhi will provide infrastructure, financial assistance for procuring essential electronic gadgets for the purpose of conducting trial where the accused has special needs so that he or she can participate equally in the judicial proceedings with assistance of such assistive technology. The installation of such gadgets and infrastructure will ensure that such persons with disabilities will be able to better understand and meaningfully participate in the judicial proceedings, whether criminal or civil. The concerned Government, in addition to the facilities/equipment suggested by this Court, shall take into account all other facilities and equipment which can be provided which would facilitate recording of arguments or evidence before the Courts of law in cases of accused persons with disabilities as per Section 12(4)(c) of the Act.
+
+ii. The Delhi State Legal Services Authority will prepare a comprehensive scheme including the mode and manner in which accused persons with disabilities will be able to access justice by addressing the issues raised before this court and guidelines laid down with regard to accused persons with disabilities who are not necessarily victims under the Act with dignity and equality;
+
+iii. Secretary, DSLSA will also formulate a scheme for the benefit of accused persons with disabilities for their communication and better understanding of their cases and proceedings before the Court by acquiring latest assistive technology. In this regard, they will consult the necessary stakeholders and will furnish such list and scheme within one month to this Court as well as to the Secretary, Department of Law, Justice and Legislative Affairs, Government of NCT of Delhi for execution of this noble purpose.
+
+iv. Further, the learned Registrar General of this Court will explore possibility of availability of a room on the lines of vulnerable witness room, for accused persons with disabilities who are unable to access the Courts and the justice system with equality and dignity, due to impediment of their disability and shall also consider making interim arrangements in this regard;
+
+v. To increase awareness among the public at large and to inform them about availability of resources to ensure accessibility to justice to accused persons with disabilities, a Nodal Officer or any such person who can be contacted in this regard be appointed by the concerned District Judge and the phone number of the said official/person be mentioned on the website of every District Court as well as this Court; vi. The Delhi Judicial Academy will hold a programme for the Trial Court Judges, lawyers, court staff and police for sensitization and information about the availability of services for the persons with disabilities in the Court premises and as to how and when they can be made available. A training module by the Academy be also prepared for educating and training the Court staff and the Nodal Officer in this regard.
+
+78. A person with disability who is an accused or litigant is entitled to equal and fair trial and, therefore, it is critical that the barriers in the court system which affect persons with disabilities in equal participation in the judicial process do not suffer from non-accommodation by the court, court system or other stakeholders in the administration of justice. It is only when the problem will be identified and accepted that a solution will be found to address it.
+
+CONCLUSION: BREAKING THE WALL AND DISMANTLING THE BARRIERS OF DISCRIMINATORY ATTITUDE
+
+79. There is a need to acknowledge that persons with disabilities do not need pity or patronization based on stereotypical false assumption that they are less capable and valuable compared with persons without disabilities. Eradicating the barriers, as mentioned above, which at times may not be visible or readily apparent may make the task of the judges challenging, however, the courts in India have time and again proved that they have always well attended and ensured enforcement of equality in human rights guaranteed by the Constitution meaningfully and upheld fair and free process of law.
+
+80. While the sincere concern for the welfare of persons with disabilities by the Court can be read through its judgments which may be well-intentioned to break the wall of discriminatory attitude, it is time that the resources meant for differently-abled are invested in the reform and development of the trial courts for the accuseds with such disabilities also by incorporating and building infrastructure, including rooms as on the same lines as per vulnerable witnesses, and by incorporating electronic and other products which are especially designed to enable accused persons with visual hearing, motor or mobility disabilities, etc. for making use by such persons to ensure fair trial. It will be a step towards dismantling the barriers which persons with disabilities have to face, especially an accused facing criminal trial.
+
+81. It will be a step towards long cherished goal of extending complete justice to every citizen since justice should not only be done but also seem to be done. No citizen in this country should feel that due to his physical or mental disability, justice was not done to him either due to lack of material infrastructure or moral, ethical, sensitive and understanding by the judicial system and Court.
+
+82. In view of the above discussion, this Court is of the opinion that active judicial conduct to ensure access of persons with disabilities in the judicial process will ensure achieving constitutional vision of justice of ensuring fundamental and human rights of persons with disabilities and their actual, practical and meaningful participation in the judicial process and fair trial.
+
+83. With respect to the reliefs sought by the petitioner as mentioned in the prayer clause, this Court holds as under:
+
+a) As far as Prayer A is concerned, the same seeks direction to respondent no. 1 to constitute Special Court under Section
+
+84 of Rights of Persons with Disabilities Act, 2016. This Court notes that vide notification no. F.No.l/19/2018- Judl./Suptlaw/1499-1507 dated 19.08.2021, the concerned Government, i.e. Government of NCT of Delhi had notified that every court of Additional Sessions Judge-02 in each district shall be the „special court‟ to try offences under the Rights of Persons with Disabilities Act, 2016.
+
+b) As regards Prayer B, wherein several facilities have been sought by the petitioner during the course of proceedings before the trial court that he is facing in case FIR bearing no. 229/2014, registered at Police Station Begumpur for offence punishable under Sections 498A/323 of IPC, where the petitioner is an accused, this Court directs that the trial court proceedings be stayed for a period of six months.
+
+84. In the meantime, the directions issued by this Court shall be complied with by the concerned Governments/ authorities within a period of three months from the date of submission of the report by Secretary, DSLSA to this Court as well as to the Secretary, Department of Law, Justice and Legislative Affairs, Government of NCT of Delhi.
+
+85. The Secretary, DSLSA will file the compliance report within one month from the date of uploading of the judgment on the website.
+
+86. Accordingly, the present petition stands disposed of in above terms, along with pending application if any.
+
+87. A copy of this judgment be forwarded to (i) Secretary, Department of Law, Justice and Legislative Affairs, Government of NCT of Delhi, (ii) Secretary, Delhi State Legal Services Authority, (iii) Registrar General, Delhi High Court, and (iv) Director (Academics), Delhi Judicial Academy, for information and necessary compliance.
+
+88. The judgment be uploaded on the website forthwith.
+
+SWARANA KANTA SHARMA, J AUGUST 24, 2023/ns

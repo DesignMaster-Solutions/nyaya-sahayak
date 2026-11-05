@@ -32,6 +32,16 @@ kept as totals, per language and per day (UTC).
 The first three checks, eligible results and drafts counted on 31 October 2026 are our own
 smoke tests on two phones right after the deploy; everything after that is public use.
 
+## Real cases
+
+[`evidence/real-cases/`](evidence/real-cases/) holds 16 real Supreme Court and High Court decisions
+(1979 to 2025) where a person did not get the free legal aid they were entitled to, and it changed the
+result: death and life sentences set aside, retrials, people in jail for 14 years without a lawyer for
+bail. Each decision is saved in full, and `tests/real-cases.test.mjs` checks every quote word for word and
+replays each person through `eligibility()` and `documents()`. Using only facts the decisions state, the
+app says eligible in 11 of 16 (clause (g), custody) and sends 2 more to the DLSA on income; where it
+differs from the court, `cases.json` says why. It is not field use: none of these people used the app.
+
 ## Setup
 
 Requirements: Node.js 20+ (only for the tests and for `wrangler`).
