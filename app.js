@@ -4,7 +4,8 @@ import { STRINGS } from './i18n.js';
 const $ = (id) => document.getElementById(id);
 const fill = (s, vars) => s.replace(/\{(\w+)\}/g, (_, k) => vars[k] ?? '');
 
-let lang = localStorage.getItem('ns-lang') || (navigator.language?.startsWith('hi') ? 'hi' : 'en');
+const qLang = new URLSearchParams(location.search).get('lang');
+let lang = ['en', 'hi'].includes(qLang) ? qLang : localStorage.getItem('ns-lang') || (navigator.language?.startsWith('hi') ? 'hi' : 'en');
 let answers = {};
 let index = 0;
 let view = 'intro';
