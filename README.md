@@ -92,7 +92,11 @@ AgentFoundry handed Claude Code the project brief (`BRIEF.md`) and a single prom
 read the brief, wrote the tests for every Section 12 clause first, implemented `rules.js` and the
 bilingual strings until `node --test` passed, then built the UI, the Cloudflare config and this
 README, and committed the result with conventional commits. Hindi text was written by the agent
-and should be reviewed by a native speaker with legal-aid experience before public launch.
+and should be reviewed by a native speaker with legal-aid experience before public launch. A second
+independent reading on 07 Nov 2026 fixed 8 strings (gender agreement in the "is the person a woman"
+question, singular "शामिल है" after the custody list, "नीचे का पाठ" for the draft text, the affidavit
+formula "मेरी जानकारी के अनुसार सत्य हैं", among others); the native review is still missing.
+Corrections are welcome as issues or pull requests.
 
 ## Legal sources
 
