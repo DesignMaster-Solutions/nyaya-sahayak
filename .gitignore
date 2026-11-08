@@ -4,3 +4,4 @@ node_modules/
 .af-build.log
 .af-run.sh
 .af-xt
+*.bak
