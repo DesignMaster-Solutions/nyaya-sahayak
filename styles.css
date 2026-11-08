@@ -61,7 +61,10 @@ input, textarea { font: inherit; width: 100%; padding: .6rem .7rem; border: 1.5p
 @media print {
   body > *, main > * { display: none !important; }
   main, #printable { display: block !important; }
-  #printable { white-space: pre-wrap; font: 12pt/1.6 serif; margin: 0; }
+  /* @page margin 0 is what hides the browser URL/date header and footer; the 15 mm paper margin lives in padding.
+     system-ui first: Android forks resolve Devanagari through the system Noto font; bare `serif` dropped conjuncts. */
+  @page { size: A4; margin: 0; }
+  #printable { white-space: pre-wrap; font: 12pt/1.6 system-ui, "Noto Sans Devanagari", "Noto Serif Devanagari", "Mangal", "Nirmala UI", sans-serif; margin: 0; padding: 15mm; }
 }
 table { border-collapse: collapse; width: 100%; margin: .5rem 0 1.25rem; background: #fff; }
 th, td { text-align: left; padding: .5rem .6rem; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
