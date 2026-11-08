@@ -109,6 +109,23 @@ Corrections are welcome as issues or pull requests.
 - State Legal Services Authorities publish their State's notified income limit; every district
   has a DLSA.
 
+### The one State authority we could read
+
+NALSA's table is a floor: a State may notify a higher amount or wider categories. On 8 November
+2026 we tried the official sites of the State authorities from outside India (list and HTTP
+codes in `evidence/dslsa/probe-2026-11-08.txt`): only Delhi, Maharashtra and Jharkhand answered,
+and only Delhi publishes its eligibility list on the page itself. So when the person picks
+**Delhi**, the income step also shows what DSLSA says on https://dslsa.org/legal-aid-wing/
+(Delhi Legal Services Authority Regulation 2002, Chapter VI, Rule 9; text saved in
+`evidence/dslsa/legal-aid-wing.txt`): the same annual limit NALSA lists for everyone else,
+a higher one for senior citizens and transgender persons, and no income limit for acid attack
+victims and persons infected or affected by HIV/AIDS. The figures live in `STATE_READ` in
+`rules.js`, never in the texts, and a test checks that the Delhi figure equals NALSA's (the card
+says "the same"). Maharashtra and Jharkhand only link PDFs of regulations that do not state the
+limit; the other 33 sites refused the connection or did not resolve, so for them the card still
+says to confirm with the DLSA or call 15100.
+
+
 ## Figures quoted in the submission
 
 - 4,34,302 of 5,73,220 prisoners (75.8%) were undertrials on 31 December 2022: NCRB, Prison

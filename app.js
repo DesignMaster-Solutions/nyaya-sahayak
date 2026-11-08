@@ -1,4 +1,4 @@
-import { eligibility, documents, QUESTIONS, INCOME_LIMITS, SUPREME_COURT_LIMIT, incomeLimit } from './rules.js';
+import { eligibility, documents, QUESTIONS, INCOME_LIMITS, SUPREME_COURT_LIMIT, incomeLimit, stateRead } from './rules.js';
 import { STRINGS } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
@@ -63,6 +63,14 @@ function renderLimit() {
   const rs = (n) => n.toLocaleString('en-IN');
   $('limit').hidden = limit === null;
   if (limit !== null) $('limit').textContent = fill(t('income_limit'), { state, limit: rs(limit), sc: rs(SUPREME_COURT_LIMIT) });
+  const sr = stateRead(state);
+  $('state-read').hidden = !sr;
+  if (!sr) return;
+  const date = new Date(`${sr.date}T00:00:00`).toLocaleDateString(lang === 'hi' ? 'hi-IN' : 'en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+  $('sr-text').textContent = fill(t('sr_read'), { date, basis: t(sr.basis), limit: rs(sr.limit) });
+  $('sr-list').replaceChildren(...sr.wider.map(([key, lim]) => li(fill(t(key), { limit: lim === null ? '' : rs(lim) }))));
+  $('sr-link').href = sr.url;
+  $('sr-link').textContent = t('sr_link');
 }
 
 function answer(id, value) {

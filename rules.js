@@ -60,6 +60,24 @@ export const INCOME_LIMITS = [
   ['Puducherry', 100000],
 ];
 
+// What a State authority publishes on its own site beyond the NALSA table, read by us on the date given.
+// Only States whose official site answers from outside India (33 of 37 refused or did not resolve on 08/11/2026).
+// `basis` and each `wider` entry are i18n keys; amounts stay here, never in the texts (null = no income limit).
+export const STATE_READ = {
+  Delhi: {
+    url: 'https://dslsa.org/legal-aid-wing/',
+    date: '2026-11-08',
+    basis: 'dl_basis',
+    limit: 300000,
+    wider: [['dl_senior', 400000], ['dl_trans', 400000], ['dl_acid', null], ['dl_hiv', null]],
+  },
+};
+
+/** @returns {object|null} what the State's own authority site says, or null when we could not read it */
+export function stateRead(state) {
+  return STATE_READ[state] ?? null;
+}
+
 /** @returns {number|null} rupees per year, or null for a name not in the NALSA table */
 export function incomeLimit(state) {
   return INCOME_LIMITS.find(([s]) => s === state)?.[1] ?? null;

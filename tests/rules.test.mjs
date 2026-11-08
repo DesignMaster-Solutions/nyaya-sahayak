@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { eligibility, documents, QUESTIONS, CLAUSES, INCOME_LIMITS, SUPREME_COURT_LIMIT, incomeLimit } from '../rules.js';
+import { eligibility, documents, QUESTIONS, CLAUSES, INCOME_LIMITS, SUPREME_COURT_LIMIT, incomeLimit, stateRead } from '../rules.js';
 import { STRINGS } from '../i18n.js';
 
 const allNo = Object.fromEntries(QUESTIONS.map((q) => [q.id, 'no']));
@@ -98,4 +98,14 @@ test('en and hi have the same keys, covering every question, clause, note and do
     ...documents(CLAUSES),
   ];
   for (const k of needed) assert.ok(STRINGS.en[k], `missing en.${k}`);
+});
+
+test('a State read on its own authority site keeps the NALSA figure and lists who it covers more widely', () => {
+  const sr = stateRead('Delhi');
+  assert.equal(sr.limit, incomeLimit('Delhi'), 'the card says "the same" figure, so it must be the same');
+  assert.ok(sr.url.startsWith('https://') && /^\d{4}-\d{2}-\d{2}$/.test(sr.date));
+  assert.ok(sr.wider.length >= 1);
+  for (const key of [sr.basis, ...sr.wider.map(([k]) => k)]) assert.ok(STRINGS.en[key] && STRINGS.hi[key], `missing ${key}`);
+  for (const [, limit] of sr.wider) assert.ok(limit === null || limit > sr.limit, 'wider means a higher ceiling or none');
+  assert.equal(stateRead('Kerala'), null, 'only States whose site answered are listed');
 });

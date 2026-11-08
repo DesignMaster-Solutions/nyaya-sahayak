@@ -1,0 +1,19 @@
+Source: https://dslsa.org/legal-aid-wing/ (Delhi State Legal Services Authority, official site)
+Read by us: 2026-11-08 ~12:55 BRT, HTTP 200, curl from outside India; text extracted from the HTML, tags removed.
+Same list also on https://dslsa.org/faqs/ (EN and HI).
+
+431: ---Who is eligible for Free Legal Aid--- As per chapter VI, Rule 9, of the Delhi Legal Services Authority Regulation 2002 following person are eligible for free Legal Aid Services. 
+432: SC or ST 
+433: Victim of trafficking or begar 
+434: Women or Child 
+435: Person with disabilities 
+436: Victim of Mass Disaster/Ethnic Violence Caste Atrocity/Flood/ Earthquake or Industrial Disaster 
+437: Industrial Workmen 
+438: In Custody, including custody in Protective Home/ Juvenile Home/Psychiatric Hospital/ Psychiatric Nursing Home 
+439: Person having annual income less than Rs. 3 Lac 
+440: Senior Citizen having annual income less than Rs. 4 Lac 
+441: Transgender having annual income less than Rs. 4 Lac 
+442: Acid Attack Victim 
+443: Person infected and affected with HIV Aids 
+447: Help Line: 15100 & 1516 (24*7), 9870101337 
+448: Email : lae-dslsa@gov.in 
