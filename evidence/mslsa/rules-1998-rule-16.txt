@@ -1,0 +1,10 @@
+Maharashtra State Legal Services Authority Rules, 1998, rule 16 (income ceiling under Section 12(h))
+Source page: https://legalservices.maharashtra.gov.in/document-category/acts-rules-regulations/ (row 'Maharashtra State Legal Services Authority Rules, 1998', Accessible Version, 74 KB)
+PDF: https://cdnbbsr.s3waas.gov.in/s3d04863f100d59b3eb688a11f95b0ae60/uploads/2024/06/20240625135927672.pdf (uploaded 2024-06-25)
+Read on 2026-11-08 with curl + pdftotext -layout; the asterisk before Rs.72,000 is in the PDF and has no footnote on the page (the two footnotes in the document are about the word 'Brihan', Notification LAB 2005/269/(C.R.21)D-22).
+
+16.   Upperlimit of Annual Income of person for availing Legal Services under
+      Cl. (h) of Sec. 12:—Any citizen of India whose case is before a Court, other than the
+      Supreme Court, and whose annual income from all sources does not exceed
+      *Rs.72,000 (Rupees Seventy Two thousand) shall be entitled to legal services under
+      Cl. (h) of Sec. 12 of the Act.

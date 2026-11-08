@@ -121,7 +121,10 @@ and only Delhi publishes its eligibility list on the page itself. So when the pe
 a higher one for senior citizens and transgender persons, and no income limit for acid attack
 victims and persons infected or affected by HIV/AIDS. The figures live in `STATE_READ` in
 `rules.js`, never in the texts, and a test checks that the Delhi figure equals NALSA's (the card
-says "the same"). Maharashtra and Jharkhand only link PDFs of regulations that do not state the
+says "the same"). Maharashtra links the PDF of its own Rules, 1998 (read the same day, text in
+`evidence/mslsa/rules-1998-rule-16.txt`): rule 16 still prints the 1998 ceiling, Rs 72,000, with
+an asterisk and no footnote, below the Rs 3 lakh NALSA now lists for the State, so the app keeps
+NALSA's figure and shows no Maharashtra card. Jharkhand only links PDFs that do not state the
 limit; the other 33 sites refused the connection or did not resolve, so for them the card still
 says to confirm with the DLSA or call 15100.
 
