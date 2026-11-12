@@ -137,3 +137,6 @@ $('copy').onclick = async () => {
 };
 
 render();
+
+// Opens offline after the first visit (sw.js): the questions, the rules and the letter need no network.
+navigator.serviceWorker?.register('sw.js').catch(() => {});

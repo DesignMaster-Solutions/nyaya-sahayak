@@ -30,7 +30,11 @@ sent: no answers, no names, no addresses, and the Worker never stores an IP. The
 one Durable Object (`worker.js`, class `Counter`), so concurrent increments are not lost, and are
 kept as totals, per language and per day (UTC).
 The first three checks, eligible results and drafts counted on 31 October 2026 are our own
-smoke tests on two phones right after the deploy; everything after that is public use.
+smoke tests on two phones right after the deploy. The counter cannot tell a visitor from one of
+our own later tests that forgot `?nostats`, so we do not claim the later counts as third-party use.
+
+The app opens offline after the first visit (`sw.js`, network first, cache only when the network
+fails; `/api/` is never cached): the questions, the rules and the draft letter run in the browser.
 
 ## Real cases
 
