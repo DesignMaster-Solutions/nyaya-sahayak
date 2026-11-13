@@ -16,15 +16,15 @@
     <h2>Totals since <span id="since"></span></h2>
     <table id="totals"><tbody></tbody></table>
     <h2>By language</h2>
-    <table id="langs"><thead><tr><th></th><th>Checks</th><th>Eligible</th><th>Applications</th><th>Shares</th></tr></thead><tbody></tbody></table>
+    <table id="langs"><thead><tr><th></th><th>Checks</th><th>Eligible</th><th>Applications</th><th>Shares</th><th>Result links</th></tr></thead><tbody></tbody></table>
     <h2>By day (UTC)</h2>
-    <table id="days"><thead><tr><th>Day</th><th>Checks</th><th>Eligible</th><th>Applications</th><th>Shares</th></tr></thead><tbody></tbody></table>
+    <table id="days"><thead><tr><th>Day</th><th>Checks</th><th>Eligible</th><th>Applications</th><th>Shares</th><th>Result links</th></tr></thead><tbody></tbody></table>
     <p class="hint">Checks = people who answered all nine questions. Eligible = checks whose result named at least one clause of Section 12. Applications = DLSA letters drafted. Shares = letters sent on or the tool shared on WhatsApp.</p>
   </main>
   <footer class="wrap foot"><p>Free and open-source: <a href="https://github.com/DesignMaster-Solutions/nyaya-sahayak">github.com/DesignMaster-Solutions/nyaya-sahayak</a></p></footer>
   <script type="module">
-    const EVENTS = ['check', 'eligible', 'draft', 'share'];
-    const LABEL = { check: 'Checks completed', eligible: 'Eligible results', draft: 'Applications drafted', share: 'Shares on WhatsApp' };
+    const EVENTS = ['check', 'eligible', 'draft', 'share', 'share_link'];
+    const LABEL = { check: 'Checks completed', eligible: 'Eligible results', draft: 'Applications drafted', share: 'Shares on WhatsApp', share_link: 'Result link sent to someone else' };
     const { since, counts } = await (await fetch('/api/stats', { cache: 'no-store' })).json();
     document.getElementById('since').textContent = since;
     const row = (cells, head) => `<tr>${cells.map((c, i) => (i === 0 && head ? `<th>${c}</th>` : `<td>${c}</td>`)).join('')}</tr>`;

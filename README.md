@@ -19,13 +19,18 @@ Demo video (85 s): <https://youtu.be/Mnqa7ExGQFI> (script and sources of every f
 - "Send on WhatsApp" sends the letter to the person's own chat, a relative or a paralegal (the
   system share sheet where available, `wa.me` otherwise); "Share this tool on WhatsApp" passes the
   link on, which is how it travels between DLSAs, Common Service Centres and NGOs.
+- "Send this result to a family member on WhatsApp" sends a link that opens straight on the same
+  result, in the same language (`/?lang=hi&scst=no&...&income=yes`). Only the language and the nine
+  yes/no answers travel in it: nothing typed, no State. An incomplete or unknown value opens the
+  normal first screen. Opening such a link is not counted as a check.
 
 ## Usage numbers (impact data)
 
 Live, public and anonymous: **https://nyaya-sahayak.designmaster.workers.dev/stats** (JSON at
-`/api/stats`). The app sends four events with `navigator.sendBeacon`: `check` (all nine questions
+`/api/stats`). The app sends five events with `navigator.sendBeacon`: `check` (all nine questions
 answered), `eligible` (the result named at least one clause), `draft` (a DLSA letter was built) and
-`share` (letter sent or tool shared on WhatsApp), each with the language only. Nothing else is
+`share` (letter sent or tool shared on WhatsApp) and `share_link` (result link sent to someone
+else), each with the language only. Nothing else is
 sent: no answers, no names, no addresses, and the Worker never stores an IP. The counts live in
 one Durable Object (`worker.js`, class `Counter`), so concurrent increments are not lost, and are
 kept as totals, per language and per day (UTC).

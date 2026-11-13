@@ -127,3 +127,16 @@ export function documents(clauses = []) {
   if (clauses.includes('h')) docs.push('doc_income_affidavit');
   return docs;
 }
+
+// Link that opens straight on the same result for whoever receives it. Only the language and the
+// nine answers travel: nothing typed, no State, nothing personal.
+export function shareUrl(origin, answers, lang) {
+  return `${origin}/?${new URLSearchParams({ lang, ...Object.fromEntries(QUESTIONS.map((q) => [q.id, answers[q.id]])) })}`;
+}
+
+// Answers from a shared link, or null unless every question has one of its own options.
+export function answersFrom(search) {
+  const p = new URLSearchParams(search);
+  const a = Object.fromEntries(QUESTIONS.map((q) => [q.id, p.get(q.id)]));
+  return QUESTIONS.every((q) => (q.options || ['yes', 'no']).includes(a[q.id])) ? a : null;
+}

@@ -1,4 +1,4 @@
-import { eligibility, documents, QUESTIONS, INCOME_LIMITS, SUPREME_COURT_LIMIT, incomeLimit, stateRead } from './rules.js';
+import { eligibility, documents, shareUrl, answersFrom, QUESTIONS, INCOME_LIMITS, SUPREME_COURT_LIMIT, incomeLimit, stateRead } from './rules.js';
 import { STRINGS } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
@@ -88,6 +88,7 @@ function renderResult() {
   $('why').hidden = !r.eligible;
   $('clauses').replaceChildren(...r.clauses.map((c) => li(t(`clause_${c}`))));
   $('notes').replaceChildren(...r.notes.map((n) => li(t(n))));
+  $('pass').href = `https://wa.me/?text=${encodeURIComponent(`${t('pass_text')} ${shareUrl(location.origin, answers, lang)}`)}`;
 }
 
 function renderDocs() {
@@ -112,6 +113,7 @@ function buildDraft(f) {
 $('start').onclick = () => { answers = {}; index = 0; show('quiz'); };
 $('back').onclick = () => { if (index > 0) { index--; renderQuestion(); } else show('intro'); };
 $('to-form').onclick = () => show('form-step');
+$('pass').onclick = () => count('share_link');
 $('state').onchange = (e) => { state = e.target.value; renderLimit(); };
 for (const b of document.querySelectorAll('[data-restart]')) b.onclick = () => show('intro');
 for (const b of document.querySelectorAll('[data-lang]')) {
@@ -136,7 +138,9 @@ $('copy').onclick = async () => {
   setTimeout(() => { $('copy').textContent = t('copy'); }, 2000);
 };
 
-render();
+// A link sent by a relative opens straight on the result they saw (not counted as a check).
+const shared = answersFrom(location.search);
+if (shared) { answers = shared; index = QUESTIONS.length; show('result'); } else render();
 
 // Opens offline after the first visit (sw.js): the questions, the rules and the letter need no network.
 navigator.serviceWorker?.register('sw.js').catch(() => {});

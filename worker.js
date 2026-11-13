@@ -1,6 +1,6 @@
 // Anonymous usage counter for the impact data: it counts events, never answers, names or IPs.
 // One Durable Object holds the counts, so increments are atomic. GET /api/stats is public.
-const EVENTS = new Set(['check', 'eligible', 'draft', 'share']);
+const EVENTS = new Set(['check', 'eligible', 'draft', 'share', 'share_link']);
 const LANGS = new Set(['en', 'hi']);
 
 export class Counter {
